@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
 using System.Linq;
+using System.Text;
 using System.Threading;
 using SecureStuff;
 using DatabaseAPI;
@@ -160,7 +161,23 @@ public partial class PlayerList
 		//ensure any writing has finished
 		yield return WaitFor.EndOfFrame;
 		Instance.serverAdmins.Clear();
-		Instance.serverAdmins = new HashSet<string>(AccessFile.ReadAllLines(Instance.adminsPath));
+		var collectionOfAdmins = AccessFile.ReadAllLines(Instance.adminsPath);
+		if (collectionOfAdmins == null)
+		{
+			Loggy.Error("The Admins file is null, empty or broken!", Category.Admin);
+			yield break;
+		}
+		else
+		{
+			var names = new StringBuilder();
+			names.Append("Admins Loaded: ");
+			foreach (var adminName in collectionOfAdmins)
+			{
+				names.AppendLine(adminName);
+			}
+			Loggy.Info(names.ToString());
+		}
+		Instance.serverAdmins = new HashSet<string>(collectionOfAdmins);
 	}
 
 	static IEnumerator LoadMentors()
@@ -772,6 +789,20 @@ public partial class PlayerList
 
 	public void CheckAdminState(PlayerInfo player)
 	{
+		// (Max): Unity doesn't load server admins on MPM due to the library not copying the correct files over.
+		// This prevents the server from breaking if it ever gets an empty ServerAdmin list.
+		if (serverAdmins == null)
+		{
+			Instance.StartCoroutine(LoadAdmins());
+			Loggy.Error("Missing serverAdmins list.", Category.Admin);
+			return;
+		}
+		//wtf?
+		if (player == null)
+		{
+			Loggy.Error("Attempting to access playerinfo that doesn't exist? MPM issue?", Category.Admin);
+			return;
+		}
 		//full admin privs for local offline testing for host player
 		if (serverAdmins.Contains(player.AccountId)
 		    || (player.GameObject == PlayerManager.LocalViewerScript?.gameObject)
