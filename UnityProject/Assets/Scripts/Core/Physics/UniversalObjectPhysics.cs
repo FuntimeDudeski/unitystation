@@ -525,9 +525,36 @@ namespace Core.Physics
 
 		public virtual void AppearAtWorldPositionServer(Vector3 worldPos, bool smooth = false,
 			bool doStepInteractions = true,
-			Vector2? momentum = null, MatrixInfo Matrixoveride = null)
+			Vector2? momentum = null, MatrixInfo Matrixoveride = null, bool TeleportContainer = false)
 		{
 			this.doStepInteractions = doStepInteractions;
+
+			if (ContainedInObjectContainer)
+			{
+				if (TeleportContainer)
+				{
+					ContainedInObjectContainer.registerTile.ObjectPhysics.Component.AppearAtWorldPositionServer(worldPos, smooth, doStepInteractions, momentum, Matrixoveride,TeleportContainer );
+				}
+				else
+				{
+					ContainedInObjectContainer.RetrieveObject(this.gameObject);
+				}
+
+			}
+
+			if (pickupable.HasComponent && pickupable.Component.StoredInItemStorageNetworked != null)
+			{
+				if (TeleportContainer)
+				{
+					pickupable.Component.UniversalObjectPhysics.AppearAtWorldPositionServer(worldPos, smooth, doStepInteractions, momentum, Matrixoveride,TeleportContainer );
+				}
+				else
+				{
+					Inventory.ServerDrop(this.gameObject);
+				}
+
+
+			}
 
 			SynchroniseVisibility(isVisible, true);
 			var matrix = MatrixManager.AtPoint(worldPos, isServer);
