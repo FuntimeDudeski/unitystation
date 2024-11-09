@@ -311,6 +311,7 @@ namespace MapSaver
 				Transform Parent = null;
 				Parent = Matrix.MetaTileMap.ObjectLayer.transform;
 				Transform Child = null;
+
 				foreach (var step in prefabData.SortPath.Split("/"))
 				{
 					Child = Parent.Find(step);
@@ -331,7 +332,9 @@ namespace MapSaver
 						Child.localPosition = Vector3.zero;
 						Child.localScale = Vector3.one;
 						Child.rotation = Quaternion.identity;
+
 					}
+					Parent = Child;
 				}
 
 				Object.transform.SetParent(Child);
@@ -451,7 +454,7 @@ namespace MapSaver
 
 				if (string.IsNullOrEmpty(ID))
 				{
-					ID = prefabData.PrefabID;
+					ID = prefabData.ID.ToString();
 				}
 
 				bool IsServer = CustomNetworkManager.IsServer;
