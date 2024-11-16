@@ -32,8 +32,8 @@ namespace UI.Chat_UI
 		private GameObject channelToggleTemplate = null;
 		[SerializeField]
 		private Image background = null;
-		[SerializeField]
-		private TMP_InputField InputFieldChat = null;
+
+		public TMP_InputField InputFieldChat = null;
 		[SerializeField]
 		private RectTransform viewportTransform = null;
 
@@ -64,6 +64,8 @@ namespace UI.Chat_UI
 
 		private ChatChannel selectedChannels;
 		private int selectedVoiceLevel;
+
+		[FormerlySerializedAs("STTImageText")] public Image SpeechToTextImageText;
 
 		/// <summary>
 		/// Latest parsed input from input field
@@ -435,6 +437,20 @@ namespace UI.Chat_UI
 			checkPositionEvent?.Invoke();
 		}
 
+		public void OnToggleSTT()
+		{
+			WhisperMicrophoneHandler.Instance.gameObject.SetActive(!WhisperMicrophoneHandler.Instance.gameObject.activeSelf);
+
+			if (WhisperMicrophoneHandler.Instance.gameObject.activeSelf)
+			{
+				SpeechToTextImageText.color = Color.green;
+			}
+			else
+			{
+				SpeechToTextImageText.color = Color.white;
+			}
+		}
+
 		//This is an editor interface trigger event, do not delete
 		public void OnScrollBarInteractEnd()
 		{
@@ -467,6 +483,7 @@ namespace UI.Chat_UI
 
 		private void PlayerSendChat(ParsedChatInput parsedChat)
 		{
+			//.Replace("\n" is done on server too
 			parsedChat.ClearMessage = parsedChat.ClearMessage.Replace("\n", " ").Replace("\r", " ");  // We don't want users to spam chat vertically
 			if (selectedVoiceLevel == -1)
 				parsedChat.ClearMessage = "#" + parsedChat.ClearMessage;
@@ -537,8 +554,9 @@ namespace UI.Chat_UI
 			languagePanel.gameObject.SetActive(false);
 
 			EventManager.Broadcast(quickClose ? Event.ChatQuickUnfocus : Event.ChatUnfocused);
-
+			SpeechToTextImageText.color = Color.white;
 			Showing = false;
+
 			StartCoroutine(AnimateBackground());
 
 			UIManager.PreventChatInput = false;
@@ -607,6 +625,7 @@ namespace UI.Chat_UI
 		{
 			if (UIManager.IsInputFocus) return;
 			Showing = false;
+			SpeechToTextImageText.color = Color.white;
 			StartCoroutine(AnimateBackground());
 			CloseChatWindow(true);
 		}
