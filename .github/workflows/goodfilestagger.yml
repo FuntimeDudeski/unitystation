@@ -9,8 +9,7 @@ on:
       - edited
   push:
     branches:
-      - main
-
+      - develop
 jobs:
   check-changes:
     if: github.event_name == 'pull_request'
@@ -69,6 +68,10 @@ jobs:
 
       - name: Fetch tags
         run: git fetch --tags
+
+      - name: Debug GitHub Event Data
+        run: |
+          echo "GitHub Event: ${{ toJson(github) }}"
 
       - name: Determine the new version
         id: version_bump
