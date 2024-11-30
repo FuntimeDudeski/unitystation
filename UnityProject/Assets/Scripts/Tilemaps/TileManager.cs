@@ -7,6 +7,7 @@ using Logs;
 using Shared.Managers;
 using Tiles;
 using UnityEngine;
+using Debug = UnityEngine.Debug;
 
 public static class TilePaths
 {
@@ -65,7 +66,7 @@ public class TileManager : SingletonManager<TileManager>, IInitialise
 #if UNITY_EDITOR
 		CacheAllAssets();
 #endif
-		if (!GameData.IsInGame)
+		if (GameData.IsInGame == false)
 		{
 			if (!Instance.initialized) StartCoroutine(LoadAllTiles(true));
 		}
@@ -164,8 +165,6 @@ public class TileManager : SingletonManager<TileManager>, IInitialise
 				}
 			}
 		}
-
-
 	}
 
 	public static LayerTile GetTile( string key)
