@@ -90,15 +90,6 @@ namespace Systems.Faith
 			}
 		}
 
-		public static void AddLeaderToFaith(string targetFaith, PlayerScript newLeader)
-		{
-			foreach (var faith in Instance.CurrentFaiths.Where(faith => faith.Faith.FaithName == targetFaith))
-			{
-				faith.AddMember(newLeader);
-				faith.FaithLeaders.Add(newLeader);
-			}
-		}
-
 		public void AddFaithToActiveList(Faith faith)
 		{
 			if (CustomNetworkManager.IsServer == false)
@@ -110,7 +101,6 @@ namespace Systems.Faith
 			{
 				Faith = faith,
 				Points = 0,
-				FaithLeaders = new List<PlayerScript>(),
 				FaithMembers = new List<PlayerScript>(),
 			};
 			CurrentFaiths.Add(data);
@@ -119,7 +109,7 @@ namespace Systems.Faith
 
 		public static void JoinFaith(Faith faith, PlayerScript player)
 		{
-			foreach (var faithData in Instance.CurrentFaiths.Where(x => x.FaithMembers.Contains(player)))
+			foreach (var faithData in Instance.CurrentFaiths.Where(x => x.Faith.FaithName == faith.FaithName))
 			{
 				faithData.AddMember(player);
 			}
@@ -127,7 +117,7 @@ namespace Systems.Faith
 
 		public static void LeaveFaith(PlayerScript playerScript)
 		{
-			foreach (var faith in Instance.CurrentFaiths.Where(faith => faith.FaithMembers.Contains(playerScript)))
+			foreach (var faith in Instance.CurrentFaiths.Where(f => f.FaithMembers.Contains(playerScript)))
 			{
 				faith.RemoveMember(playerScript);
 			}
