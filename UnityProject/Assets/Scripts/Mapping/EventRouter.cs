@@ -8,25 +8,21 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.Events;
 
+
 namespace Mapping
 {
 	/// <summary>
 	/// A component designed to save and load events between components for maps,
 	/// as the Map Saver/Loader is unable to currently save UnityEvents by itself.
 	/// </summary>
-	public class EventRouter : MonoBehaviour
+	public class EventRouter : MonoBehaviour, INewMappedOnSpawn
 	{
 		//TODO Specifying data sometime
 		public List<EventConnection> EventLinks = new List<EventConnection>();
 
-		// Start is called before the first frame update
-		void Start()
-		{
-			PopulateEventRouter();
-		}
 
 		[Button("Populate Event Router")]
-		public void PopulateEventRouter()
+		public void OnNewMappedOnSpawn()
 		{
 			foreach (var eventLink in EventLinks)
 			{
