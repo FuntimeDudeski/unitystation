@@ -17,6 +17,7 @@ using Newtonsoft.Json;
 using UnityEngine;
 using Objects.Construction;
 using TileManagement;
+using Tilemaps.Behaviours.Pathfinding;
 using Random = UnityEngine.Random;
 
 /// <summary>
@@ -24,7 +25,10 @@ using Random = UnityEngine.Random;
 /// </summary>
 public class MetaDataLayer : MonoBehaviour
 {
-	private ChunkedTileMap<MetaDataNode> nodes = new ChunkedTileMap<MetaDataNode>();
+	private readonly ChunkedTileMap<MetaDataNode> nodes = new ChunkedTileMap<MetaDataNode>();
+	public ChunkedTileMap<MetaDataNode> Nodes => nodes;
+
+	public PressurePathfinder Pathfinder = new PressurePathfinder();
 
 	/// <summary>
 	/// //Used for networking, Nodes that have changed In terms of network variables
@@ -78,7 +82,6 @@ public class MetaDataLayer : MonoBehaviour
 		matrix = GetComponent<Matrix>();
 		MetaDataSystem = subsystemManager.GetComponent<MetaDataSystem>();
 	}
-
 
 	public void SynchroniseNodeChanges()
 	{

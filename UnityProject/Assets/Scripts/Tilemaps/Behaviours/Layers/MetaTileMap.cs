@@ -912,8 +912,6 @@ namespace TileManagement
 
 					TileSaveRollbacks[position] = TileSaveRollback;
 				}
-
-
 			}
 
 			if (Layers.TryGetValue(tile.LayerType, out var layer))
@@ -1015,13 +1013,13 @@ namespace TileManagement
 				}
 
 
-				LayerTile PreExistingTile = tileLocation.layerTile;
+				LayerTile preExistingTile = tileLocation.layerTile;
 
 				tileLocation.layerTile = tile;
 				tileLocation.transformMatrix = matrixTransform.GetValueOrDefault(Matrix4x4.identity);
 				tileLocation.Colour = color.GetValueOrDefault(Color.white);
 
-				if (PreExistingTile != null)
+				if (preExistingTile != null)
 				{
 					if (tileLocation.layer.LayerType is LayerType.Base or LayerType.Walls)
 					{
@@ -1029,8 +1027,8 @@ namespace TileManagement
 						{
 							if (Mass != 0)
 							{
-								LocalTotalMasslocations -= (PreExistingTile.Mass * position.To3());
-								Mass -= PreExistingTile.Mass;
+								LocalTotalMasslocations -= (preExistingTile.Mass * position.To3());
+								Mass -= preExistingTile.Mass;
 								LocalCentreOfMass = LocalTotalMasslocations / Mass;
 							}
 						}
@@ -1052,9 +1050,9 @@ namespace TileManagement
 				{
 					if (LocalCachedBounds.Value.Contains(tileLocation.LocalPosition) == false)
 					{
-						var Bounds = LocalCachedBounds.Value; // struct funnies With references
-						Bounds.ExpandToPoint2D(tileLocation.LocalPosition);
-						LocalCachedBounds = Bounds;
+						var bounds = LocalCachedBounds.Value; // struct funnies With references
+						bounds.ExpandToPoint2D(tileLocation.LocalPosition);
+						LocalCachedBounds = bounds;
 
 						lock (matrix)
 						{
