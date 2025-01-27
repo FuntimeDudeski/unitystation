@@ -43,13 +43,19 @@ namespace Core.Physics
 			{
 				if (Validations.IsReachableByRegisterTiles(initiator.registerTile, registerTile, false,
 					    context: gameObject) &&
-				    rotationTarget.eulerAngles != initialRotationOnAwake)
+				    rotationTarget.eulerAngles.z != 0)
 				{
-					options.AddElement("Reset Rotation", CmdResetTransformRotationForAll);
+					options.AddElement("Reset Rotation", ClientRequestResetRotation);
 				}
 			}
 
+
 			return options;
+		}
+
+		public void ClientRequestResetRotation()
+		{
+			CmdResetTransformRotationForAll();
 		}
 	}
 }
