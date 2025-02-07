@@ -6,6 +6,8 @@ public static class TAG
 	public const string MANAGE_SERVER_PLAYERCAP = "MANAGE_SERVER_PLAYERCAP";
 	public const string SETTING_VOICE_CHAT = "SETTING_VOICE_CHAT";
 	public const string PLAYER_INFO = "PLAYER_INFO";
+	public const string PLAYER_INFO_IP = "PLAYER_INFO_IP";
+
 	public const string MANAGE_SERVER_FPS = "MANAGE_SERVER_FPS";
 	public const string ADMIN_BYPASS_PLAYER_LIMIT = "ADMIN_BYPASS_PLAYER_LIMIT";
 	public const string ADMIN_BYPASS_WHITE_LIST = "ADMIN_BYPASS_WHITE_LIST";
@@ -138,5 +140,19 @@ public static class TAG
 	public const string ADMIN_GHOST_INVENTORY = "ADMIN_GHOST_INVENTORY";
 	public const string DEBUG_ADD_FAITH_POINTS = "DEBUG_ADD_FAITH_POINTS";
 
+	public const string RCON_ACCESS = "RCON_ACCESS";
+	public const string ADMIN_VOTE_VETO = "ADMIN_VOTE_VETO";
+	public const string ADMIN_LOGS = "ADMIN_LOGS";
+	public const string OFFLINE_MODE_MULTIKEY = "OFFLINE_MODE_MULTIKEY";
+	public const string OBJECT_INFO = "OBJECT_INFO";
+
+	public const string ADMIN_BYPASS_GLOBAL_OOC_MUTE = "ADMIN_BYPASS_GLOBAL_OOC_MUTE";
+	public const string ADMIN_CHAT_HTML = "ADMIN_CHAT_HTML";
+
+
+	public const string ADMIN_POSSESS_BODY = "ADMIN_POSSESS_BODY";
+	public const string ADMIN_AGHOST = "ADMIN_AGHOST";
+	public const string ADMIN_RESPAWN_SELF = "ADMIN_RESPAWN_SELF";
+	public const string MAP_CAMERA_OPTIONS = "MAP_CAMERA_OPTIONS";
 
 }
