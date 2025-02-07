@@ -3355,8 +3355,9 @@
         "Tomlyn": {
             "Toml": {
                 "Methods": [
-                    "bool TryToModel<>(string, ref !!0, ref Tomlyn.Syntax.DiagnosticsBag, string, Tomlyn.TomlModelOptions)"
-                ]
+                    "bool TryToModel<>(string, ref !!0, ref Tomlyn.Syntax.DiagnosticsBag, string, Tomlyn.TomlModelOptions)",
+					"string FromModel(object, Tomlyn.TomlModelOptions)"
+				]
             },
             "TomlModelOptions": {
                 "All": true
