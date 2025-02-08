@@ -3101,8 +3101,21 @@
             },
             "NetworkManagerMode": {
                 "All": true
-            }
+            },
+			"MultiplexTransport" : {
+				
+			},
         },
+		"kcp2k" : {
+			"KcpTransport" : {
+				
+			}
+		},
+		"Mirror.SimpleWeb" : {
+			"SimpleWebTransport" : {
+
+			}
+		},
         "IgnoranceTransport": {
             "Ignorance": {
                 "Fields": [
@@ -3129,17 +3142,6 @@
             },
             "Invoker": {
                 "All": true
-            }
-        },
-        "Mirror.Transports": {
-            "Mirror.MultiplexTransport": {
-                
-            },
-            "kcp2k.KcpTransport":{
-                
-            },
-            "Mirror.SimpleWeb.SimpleWeb":{
-                
             }
         },
         "Logs": {
