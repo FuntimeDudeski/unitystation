@@ -5,7 +5,7 @@
     {
       "Ver": "1.1.1",
       "Location": "-485┼693┼0┼",
-      "MatrixName": "Asteroid4",
+      "MatrixName": "AsteroidHuge",
       "GitFriendlyTileMapData": {
         "Ver": "1.0.0",
         "XYs": [
@@ -51875,7 +51875,7 @@
         ]
       },
       "CompactObjectMapData": {
-        "Ver": "1.4.0",
+        "Ver": "1.4.2",
         "CommonPrefabs": [],
         "PrefabData": [
           {
@@ -52437,7 +52437,7 @@
       "PreviewGizmos": [
         {
           "Ver": "1.0.0",
-          "Pos": "-469.5,722.5,0",
+          "Pos": "14.5,28.5,0",
           "Size": "99,77,0"
         }
       ]
