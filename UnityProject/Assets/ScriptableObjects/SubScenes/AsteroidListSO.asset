@@ -13,17 +13,23 @@ MonoBehaviour:
   m_Name: AsteroidListSO
   m_EditorClassIdentifier: 
   Asteroids:
-  - Asteroids/Asteroid01.json
-  - Asteroids/Asteroid02.json
-  - Asteroids/Asteroid03.json
-  - Asteroids/Asteroid04.json
-  - Asteroids/Asteroid05.json
-  - Asteroids/Asteroid06.json
-  - Asteroids/Asteroid07.json
-  - Asteroids/Asteroid08.json
-  - Asteroids/Asteroid09.json
-  - Asteroids/Asteroid10.json
-  - Asteroids/Asteroid11.json
-  - Asteroids/Asteroid12.json
+  - Asteroids/AsteroidHuge.json
+  - Asteroids/AsteroidLarge.json
+  - Asteroids/AsteroidMedium.json
+  - Asteroids/AsteroidMediumCircle.json
+  - Asteroids/AsteroidMediumHardCracked.json
+  - Asteroids/AsteroidMediumOldRuin.json
+  - Asteroids/AsteroidMediumSkirt.json
+  - Asteroids/AsteroidMediumXenoInfestation.json
+  - Asteroids/AsteroidMediumXenoVillage
+  - Asteroids/AsteroidScattered.json
+  - Asteroids/AsteroidSmall.json
+  - Asteroids/AsteroidSmall2.json
+  - Asteroids/AsteroidSmallHollow.json
+  - Asteroids/AsteroidSmallTpose.json
+  - Asteroids/AsteroidSmallX.json
+  - Asteroids/AsteroidTiny.json
+  - Asteroids/AsteroidTiny2.json
+  - Asteroids/AsteroidTinyVeryHard.json
   - Ruin/Ruin01.json
   - Ruin/Ruin02.json
