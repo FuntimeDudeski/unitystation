@@ -5,7 +5,7 @@
     {
       "Ver": "1.1.1",
       "Location": "-489┼518┼0┼",
-      "MatrixName": "Asteroid",
+      "MatrixName": "AsteroidMedium",
       "GitFriendlyTileMapData": {
         "Ver": "1.0.0",
         "XYs": [
@@ -9771,15 +9771,9 @@
         ]
       },
       "CompactObjectMapData": {
-        "Ver": "1.4.0",
+        "Ver": "1.4.2",
         "CommonPrefabs": [],
         "PrefabData": [
-          {
-            "GitID": "c2688b12db72cdc4c8c20b8647f6b587_-6┼24┼0┼",
-            "PrefabID": "c2688b12db72cdc4c8c20b8647f6b587",
-            "Name": "Artifact25% (1)",
-            "LocalPRS": "-6┼24┼0┼"
-          },
           {
             "GitID": "8fb9b82aab871a54fb9bdb7e4a985821_-2┼26┼0┼",
             "PrefabID": "8fb9b82aab871a54fb9bdb7e4a985821",
@@ -9898,10 +9892,28 @@
             "LocalPRS": "8.02┼23.99┼0┼"
           },
           {
-            "GitID": "8fb9b82aab871a54fb9bdb7e4a985821_14┼26┼0┼",
+            "GitID": "immadirtpilewhipeeee_16┼20┼0┼",
+            "PrefabID": "immadirtpilewhipeeee",
+            "Name": "DirtPile (2)",
+            "LocalPRS": "16┼20┼0┼"
+          },
+          {
+            "GitID": "immadirtpilewhipeeee_22┼11┼0┼",
+            "PrefabID": "immadirtpilewhipeeee",
+            "Name": "DirtPile (3)",
+            "LocalPRS": "22┼11┼0┼"
+          },
+          {
+            "GitID": "c2688b12db72cdc4c8c20b8647f6b587_23┼14┼0┼",
+            "PrefabID": "c2688b12db72cdc4c8c20b8647f6b587",
+            "Name": "Artifact25% (2)",
+            "LocalPRS": "23┼14┼0┼"
+          },
+          {
+            "GitID": "8fb9b82aab871a54fb9bdb7e4a985821_23┼22┼0┼",
             "PrefabID": "8fb9b82aab871a54fb9bdb7e4a985821",
             "Name": "CarpSpawnPoint (2)",
-            "LocalPRS": "14┼26┼0┼",
+            "LocalPRS": "23┼22┼0┼",
             "Object": {
               "ClassDatas": [
                 {
@@ -9963,24 +9975,6 @@
                 }
               ]
             }
-          },
-          {
-            "GitID": "immadirtpilewhipeeee_16┼20┼0┼",
-            "PrefabID": "immadirtpilewhipeeee",
-            "Name": "DirtPile (2)",
-            "LocalPRS": "16┼20┼0┼"
-          },
-          {
-            "GitID": "immadirtpilewhipeeee_22┼11┼0┼",
-            "PrefabID": "immadirtpilewhipeeee",
-            "Name": "DirtPile (3)",
-            "LocalPRS": "22┼11┼0┼"
-          },
-          {
-            "GitID": "c2688b12db72cdc4c8c20b8647f6b587_23┼14┼0┼",
-            "PrefabID": "c2688b12db72cdc4c8c20b8647f6b587",
-            "Name": "Artifact25% (2)",
-            "LocalPRS": "23┼14┼0┼"
           }
         ],
         "IDToNetIDClient": {}
@@ -9988,7 +9982,7 @@
       "PreviewGizmos": [
         {
           "Ver": "1.0.0",
-          "Pos": "-478,537,0",
+          "Pos": "10,18,0",
           "Size": "44,36,0"
         }
       ]

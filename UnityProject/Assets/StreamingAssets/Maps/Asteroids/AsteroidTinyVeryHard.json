@@ -1,0 +1,1840 @@
+{
+  "Ver": "1.0.0",
+  "MapName": "AsteroidVeryHard",
+  "ContainedMatrices": [
+    {
+      "Ver": "1.1.1",
+      "Location": "0┼0┼0┼",
+      "MatrixName": "AsteroidTinyVeryHard",
+      "GitFriendlyTileMapData": {
+        "Ver": "1.0.0",
+        "XYs": [
+          {
+            "Key": "X-480Y406",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X-480Y407",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X-480Y408",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X-479Y404",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X-479Y405",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X-479Y406",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X-479Y407",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X-479Y408",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X-479Y409",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X-478Y402",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X-478Y403",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X-478Y404",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X-478Y405",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X-478Y406",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X-478Y407",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X-478Y408",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X-478Y409",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X-478Y410",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X-477Y401",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X-477Y402",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X-477Y403",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X-477Y404",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X-477Y405",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X-477Y406",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X-477Y407",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X-477Y408",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X-477Y409",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X-477Y410",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X-477Y411",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X-476Y400",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X-476Y401",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X-476Y402",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X-476Y403",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X-476Y404",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X-476Y405",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X-476Y406",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X-476Y407",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X-476Y408",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X-476Y409",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X-476Y410",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X-476Y411",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X-476Y412",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X-475Y400",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X-475Y401",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X-475Y402",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X-475Y403",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X-475Y404",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X-475Y405",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X-475Y406",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X-475Y407",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X-475Y408",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X-475Y409",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X-475Y410",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X-475Y411",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X-475Y412",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X-474Y399",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X-474Y400",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X-474Y401",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X-474Y402",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X-474Y403",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X-474Y404",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X-474Y405",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X-474Y406",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X-474Y407",
+            "Value": [
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X-474Y408",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X-474Y409",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X-474Y410",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X-474Y411",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X-474Y412",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X-474Y413",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X-473Y399",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X-473Y400",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X-473Y401",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X-473Y402",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X-473Y403",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X-473Y404",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X-473Y405",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X-473Y406",
+            "Value": [
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X-473Y407",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X-473Y408",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X-473Y409",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X-473Y410",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X-473Y411",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X-473Y412",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X-473Y413",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X-472Y399",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X-472Y400",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X-472Y401",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X-472Y402",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X-472Y403",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X-472Y404",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X-472Y405",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X-472Y406",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X-472Y407",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X-472Y408",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X-472Y409",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X-472Y410",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X-472Y411",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X-472Y412",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X-471Y400",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X-471Y401",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X-471Y402",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X-471Y403",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X-471Y404",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X-471Y405",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X-471Y406",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X-471Y407",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X-471Y408",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X-471Y409",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X-471Y410",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X-471Y411",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X-471Y412",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X-470Y400",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X-470Y401",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X-470Y402",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X-470Y403",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X-470Y404",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X-470Y405",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X-470Y406",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X-470Y407",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X-470Y408",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X-470Y409",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X-470Y410",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X-470Y411",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X-470Y412",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X-469Y401",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X-469Y402",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X-469Y403",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X-469Y404",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X-469Y405",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X-469Y406",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X-469Y407",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X-469Y408",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X-469Y409",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X-469Y410",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X-469Y411",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X-469Y412",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X-468Y401",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X-468Y402",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X-468Y403",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X-468Y404",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X-468Y405",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X-468Y406",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X-468Y407",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X-468Y408",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X-468Y409",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X-468Y410",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X-468Y411",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X-467Y402",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X-467Y403",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X-467Y404",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X-467Y405",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X-467Y406",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X-467Y407",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X-467Y408",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X-467Y409",
+            "Value": [
+              {
+                "Tel": "Igneous_Rock_wall"
+              },
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X-467Y410",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X-466Y405",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X-466Y406",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X-466Y407",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X-466Y408",
+            "Value": [
+              {
+                "Tel": "Composite_Rock_wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          }
+        ]
+      },
+      "CompactObjectMapData": {
+        "Ver": "1.4.2",
+        "CommonPrefabs": [],
+        "PrefabData": [
+          {
+            "GitID": "86f1fa4a01e7f0142a6e2ce35cce0930_-485.5┼391.5┼0┼",
+            "PrefabID": "86f1fa4a01e7f0142a6e2ce35cce0930",
+            "NameMatches": true,
+            "Name": "MatrixGasSettings",
+            "LocalPRS": "-485.5┼391.5┼0┼",
+            "Object": {
+              "ClassDatas": [
+                {
+                  "ClassID": "MatrixGasSettings@0",
+                  "Data": [
+                    {
+                      "Name": "defaultRoomGasMixOverride",
+                      "Data": "Space"
+                    },
+                    {
+                      "Name": "overriderTileSpawnWithNoAir",
+                      "Data": "True"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "GitID": "911f81eefba53574788e7659d9b3dbfe_-485.5┼391.5┼0┼",
+            "PrefabID": "911f81eefba53574788e7659d9b3dbfe",
+            "NameMatches": true,
+            "Name": "AsteroidSystem",
+            "LocalPRS": "-485.5┼391.5┼0┼"
+          },
+          {
+            "GitID": "e02a5954be8d94b4bbaaa0d63d813c71_-485.5┼391.5┼0┼",
+            "PrefabID": "e02a5954be8d94b4bbaaa0d63d813c71",
+            "NameMatches": true,
+            "Name": "AI_ShouldNavigateAround",
+            "LocalPRS": "-485.5┼391.5┼0┼"
+          },
+          {
+            "GitID": "83b269ab1421fcf4a95ad3cf33935cff_-485┼392┼0┼",
+            "PrefabID": "83b269ab1421fcf4a95ad3cf33935cff",
+            "NameMatches": true,
+            "Name": "OreGenerator",
+            "LocalPRS": "-485┼392┼0┼"
+          },
+          {
+            "GitID": "c2688b12db72cdc4c8c20b8647f6b587_-473┼406┼0┼",
+            "PrefabID": "c2688b12db72cdc4c8c20b8647f6b587",
+            "Name": "Artifact25% (1)",
+            "LocalPRS": "-473┼406┼0┼"
+          }
+        ],
+        "IDToNetIDClient": {}
+      },
+      "PreviewGizmos": [
+        {
+          "Ver": "1.0.0",
+          "Pos": "-242.8,206.5,0",
+          "Size": "485.5,413,0"
+        }
+      ]
+    }
+  ]
+}

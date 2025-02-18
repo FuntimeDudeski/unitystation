@@ -1,0 +1,5598 @@
+{
+  "Ver": "1.0.0",
+  "MapName": "AsteroidOldRuin",
+  "ContainedMatrices": [
+    {
+      "Ver": "1.1.1",
+      "Location": "0┼0┼0┼",
+      "MatrixName": "AsteroidMediumOldRuin",
+      "GitFriendlyTileMapData": {
+        "Ver": "1.0.0",
+        "XYs": [
+          {
+            "Key": "X10Y23",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X10Y24",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X10Y25",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X10Y26",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X11Y23",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X11Y24",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X11Y25",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X11Y26",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X11Y27",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X12Y21",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X12Y22",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X12Y23",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X12Y24",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X12Y25",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X12Y26",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X12Y27",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X12Y28",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X13Y20",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X13Y21",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X13Y22",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X13Y23",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X13Y24",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X13Y25",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X13Y26",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X13Y27",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X13Y28",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X14Y20",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X14Y21",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X14Y22",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X14Y23",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X14Y24",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X14Y25",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X14Y26",
+            "Value": [
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X14Y27",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X14Y28",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X14Y29",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X15Y19",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X15Y20",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X15Y21",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X15Y22",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X15Y23",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X15Y24",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X15Y25",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X15Y26",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X15Y27",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X15Y28",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X15Y29",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X16Y18",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X16Y19",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X16Y20",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X16Y21",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X16Y22",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X16Y23",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X16Y24",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X16Y25",
+            "Value": [
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X16Y26",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X16Y27",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X16Y28",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X16Y29",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X17Y16",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X17Y17",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X17Y18",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X17Y19",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X17Y20",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X17Y21",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X17Y22",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X17Y23",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X17Y24",
+            "Value": [
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X17Y25",
+            "Value": [
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X17Y26",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X17Y27",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X17Y28",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X17Y29",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X18Y16",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X18Y17",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X18Y18",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X18Y19",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X18Y20",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X18Y21",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X18Y22",
+            "Value": [
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X18Y23",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X18Y24",
+            "Value": [
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X18Y25",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X18Y26",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X18Y27",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X18Y28",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X18Y29",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X18Y30",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X18Y31",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X19Y15",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X19Y16",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X19Y17",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X19Y18",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X19Y19",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X19Y20",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X19Y21",
+            "Value": [
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X19Y22",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X19Y23",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X19Y24",
+            "Value": [
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X19Y25",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X19Y26",
+            "Value": [
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X19Y27",
+            "Value": [
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X19Y28",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X19Y29",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X19Y30",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X19Y31",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X20Y15",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X20Y16",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X20Y17",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X20Y18",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X20Y19",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X20Y20",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X20Y21",
+            "Value": [
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X20Y22",
+            "Value": [
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X20Y23",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X20Y24",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X20Y25",
+            "Value": [
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X20Y26",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X20Y27",
+            "Value": [
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X20Y28",
+            "Value": [
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X20Y29",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X20Y30",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X21Y16",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X21Y17",
+            "Value": [
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X21Y18",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X21Y19",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X21Y20",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X21Y21",
+            "Value": [
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X21Y22",
+            "Value": [
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X21Y23",
+            "Value": [
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X21Y24",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X21Y25",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X21Y26",
+            "Value": [
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X21Y27",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X21Y28",
+            "Value": [
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X21Y29",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X21Y30",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X22Y15",
+            "Value": [
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X22Y16",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X22Y17",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X22Y18",
+            "Value": [
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X22Y19",
+            "Value": [
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X22Y20",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X22Y21",
+            "Value": [
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X22Y22",
+            "Value": [
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X22Y23",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X22Y24",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X22Y25",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X22Y26",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X22Y27",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X22Y28",
+            "Value": [
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X22Y29",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X22Y30",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X22Y31",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X23Y15",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X23Y16",
+            "Value": [
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X23Y17",
+            "Value": [
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X23Y18",
+            "Value": [
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X23Y19",
+            "Value": [
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X23Y20",
+            "Value": [
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X23Y21",
+            "Value": [
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X23Y22",
+            "Value": [
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X23Y23",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X23Y24",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X23Y25",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X23Y26",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X23Y27",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X23Y28",
+            "Value": [
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X23Y29",
+            "Value": [
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X23Y30",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X23Y31",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X23Y32",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X24Y14",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X24Y15",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X24Y16",
+            "Value": [
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X24Y17",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X24Y18",
+            "Value": [
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X24Y19",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X24Y20",
+            "Value": [
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X24Y21",
+            "Value": [
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X24Y22",
+            "Value": [
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X24Y23",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X24Y24",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X24Y25",
+            "Value": [
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X24Y26",
+            "Value": [
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X24Y27",
+            "Value": [
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X24Y28",
+            "Value": [
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X24Y29",
+            "Value": [
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X24Y30",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X24Y31",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X24Y32",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X25Y13",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X25Y14",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X25Y15",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X25Y16",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X25Y17",
+            "Value": [
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X25Y18",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X25Y19",
+            "Value": [
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X25Y20",
+            "Value": [
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X25Y21",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X25Y22",
+            "Value": [
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X25Y23",
+            "Value": [
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X25Y24",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X25Y25",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X25Y26",
+            "Value": [
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X25Y27",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X25Y28",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X25Y29",
+            "Value": [
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X25Y30",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X25Y31",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X25Y32",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X25Y33",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X26Y14",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X26Y15",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X26Y16",
+            "Value": [
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X26Y17",
+            "Value": [
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X26Y18",
+            "Value": [
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X26Y19",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X26Y20",
+            "Value": [
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X26Y21",
+            "Value": [
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X26Y22",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X26Y23",
+            "Value": [
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X26Y24",
+            "Value": [
+              {
+                "Tel": "rusty_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X26Y25",
+            "Value": [
+              {
+                "Tel": "rusty_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X26Y26",
+            "Value": [
+              {
+                "Tel": "rusty_wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X26Y27",
+            "Value": [
+              {
+                "Tel": "rusty_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X26Y28",
+            "Value": [
+              {
+                "Tel": "rusty_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X26Y29",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X26Y30",
+            "Value": [
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X26Y31",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X26Y32",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X26Y33",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X27Y14",
+            "Value": [
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X27Y15",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X27Y16",
+            "Value": [
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X27Y17",
+            "Value": [
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X27Y18",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X27Y19",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X27Y20",
+            "Value": [
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X27Y21",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X27Y22",
+            "Value": [
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X27Y23",
+            "Value": [
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X27Y24",
+            "Value": [
+              {
+                "Tel": "rusty_wall"
+              },
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X27Y25",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X27Y26",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X27Y27",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X27Y28",
+            "Value": [
+              {
+                "Tel": "rusty_wall"
+              },
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X27Y29",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X27Y30",
+            "Value": [
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X27Y31",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X27Y32",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X27Y33",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X28Y14",
+            "Value": [
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X28Y15",
+            "Value": [
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X28Y16",
+            "Value": [
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X28Y17",
+            "Value": [
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X28Y18",
+            "Value": [
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X28Y19",
+            "Value": [
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X28Y20",
+            "Value": [
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X28Y21",
+            "Value": [
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X28Y22",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X28Y23",
+            "Value": [
+              {
+                "Tel": "rusty_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X28Y24",
+            "Value": [
+              {
+                "Tel": "rusty_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X28Y25",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X28Y26",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X28Y27",
+            "Value": [
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X28Y28",
+            "Value": [
+              {
+                "Tel": "Wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X28Y29",
+            "Value": [
+              {
+                "Tel": "Wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X28Y30",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X28Y31",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X28Y32",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X28Y33",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X29Y14",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X29Y15",
+            "Value": [
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X29Y16",
+            "Value": [
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X29Y17",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X29Y18",
+            "Value": [
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X29Y19",
+            "Value": [
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X29Y20",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X29Y21",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X29Y22",
+            "Value": [
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X29Y23",
+            "Value": [
+              {
+                "Tel": "rusty_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X29Y24",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X29Y25",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X29Y26",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X29Y27",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X29Y28",
+            "Value": [
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X29Y29",
+            "Value": [
+              {
+                "Tel": "rusty_wall"
+              },
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X29Y30",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X29Y31",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X29Y32",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X29Y33",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X30Y14",
+            "Value": [
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X30Y15",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X30Y16",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X30Y17",
+            "Value": [
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X30Y18",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X30Y19",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X30Y20",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X30Y21",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X30Y22",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X30Y23",
+            "Value": [
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X30Y24",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X30Y25",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X30Y26",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X30Y27",
+            "Value": [
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X30Y28",
+            "Value": [
+              {
+                "Tel": "platingdmg3"
+              }
+            ]
+          },
+          {
+            "Key": "X30Y29",
+            "Value": [
+              {
+                "Tel": "Wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X30Y30",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X30Y31",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X30Y32",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X30Y33",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X30Y34",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X31Y14",
+            "Value": [
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X31Y15",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X31Y16",
+            "Value": [
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X31Y17",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X31Y18",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X31Y19",
+            "Value": [
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X31Y20",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X31Y21",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X31Y22",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X31Y23",
+            "Value": [
+              {
+                "Tel": "rusty_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X31Y24",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X31Y25",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X31Y26",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X31Y27",
+            "Value": [
+              {
+                "Tel": "platingdmg1"
+              }
+            ]
+          },
+          {
+            "Key": "X31Y28",
+            "Value": [
+              {
+                "Tel": "platingdmg2"
+              }
+            ]
+          },
+          {
+            "Key": "X31Y29",
+            "Value": [
+              {
+                "Tel": "Wall"
+              },
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X31Y30",
+            "Value": [
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X31Y31",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X31Y32",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X31Y33",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X31Y34",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X31Y35",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X32Y14",
+            "Value": [
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X32Y15",
+            "Value": [
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X32Y16",
+            "Value": [
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X32Y17",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X32Y18",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X32Y19",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X32Y20",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X32Y21",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X32Y22",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X32Y23",
+            "Value": [
+              {
+                "Tel": "rusty_wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X32Y24",
+            "Value": [
+              {
+                "Tel": "rusty_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X32Y25",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X32Y26",
+            "Value": [
+              {
+                "Tel": "Plating"
+              }
+            ]
+          },
+          {
+            "Key": "X32Y27",
+            "Value": [
+              {
+                "Tel": "platingdmg2"
+              }
+            ]
+          },
+          {
+            "Key": "X32Y28",
+            "Value": [
+              {
+                "Tel": "Wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X32Y29",
+            "Value": [
+              {
+                "Tel": "Wall"
+              },
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X32Y30",
+            "Value": [
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X32Y31",
+            "Value": [
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X32Y32",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X32Y33",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X32Y34",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X32Y35",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X33Y14",
+            "Value": [
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X33Y15",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X33Y16",
+            "Value": [
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X33Y17",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X33Y18",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X33Y19",
+            "Value": [
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X33Y20",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X33Y21",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X33Y22",
+            "Value": [
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X33Y23",
+            "Value": [
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X33Y24",
+            "Value": [
+              {
+                "Tel": "rusty_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X33Y25",
+            "Value": [
+              {
+                "Tel": "platingdmg2"
+              }
+            ]
+          },
+          {
+            "Key": "X33Y26",
+            "Value": [
+              {
+                "Tel": "platingdmg3"
+              }
+            ]
+          },
+          {
+            "Key": "X33Y27",
+            "Value": [
+              {
+                "Tel": "Plating"
+              }
+            ]
+          },
+          {
+            "Key": "X33Y28",
+            "Value": [
+              {
+                "Tel": "Wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X33Y29",
+            "Value": [
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X33Y30",
+            "Value": [
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X33Y31",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X33Y32",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X33Y33",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X33Y34",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X33Y35",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X34Y15",
+            "Value": [
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X34Y16",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X34Y17",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X34Y18",
+            "Value": [
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X34Y19",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X34Y20",
+            "Value": [
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X34Y21",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X34Y22",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X34Y23",
+            "Value": [
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X34Y24",
+            "Value": [
+              {
+                "Tel": "Wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X34Y25",
+            "Value": [
+              {
+                "Tel": "Wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X34Y26",
+            "Value": [
+              {
+                "Tel": "rusty_wall"
+              },
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X34Y27",
+            "Value": [
+              {
+                "Tel": "Wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X34Y28",
+            "Value": [
+              {
+                "Tel": "Wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X34Y29",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X34Y30",
+            "Value": [
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X34Y31",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X34Y32",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X34Y33",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X34Y34",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X34Y35",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X35Y15",
+            "Value": [
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X35Y16",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X35Y17",
+            "Value": [
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X35Y18",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X35Y19",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X35Y20",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X35Y21",
+            "Value": [
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X35Y22",
+            "Value": [
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X35Y23",
+            "Value": [
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X35Y24",
+            "Value": [
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X35Y25",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X35Y26",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X35Y27",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X35Y28",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X35Y29",
+            "Value": [
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X35Y30",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X35Y31",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X35Y32",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X35Y33",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X35Y34",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X36Y16",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X36Y17",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X36Y18",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X36Y19",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X36Y20",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X36Y21",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X36Y22",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X36Y23",
+            "Value": [
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X36Y24",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X36Y25",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X36Y26",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X36Y27",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X36Y28",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X36Y29",
+            "Value": [
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X36Y30",
+            "Value": [
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X36Y31",
+            "Value": [
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X36Y32",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X37Y16",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X37Y17",
+            "Value": [
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X37Y18",
+            "Value": [
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X37Y19",
+            "Value": [
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X37Y20",
+            "Value": [
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X37Y21",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X37Y22",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X37Y23",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X37Y24",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X37Y25",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X37Y26",
+            "Value": [
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X37Y27",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X37Y28",
+            "Value": [
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X37Y29",
+            "Value": [
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X37Y30",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X37Y31",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X37Y32",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X38Y16",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X38Y17",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X38Y18",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X38Y19",
+            "Value": [
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X38Y20",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X38Y21",
+            "Value": [
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X38Y22",
+            "Value": [
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X38Y23",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X38Y24",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X38Y25",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X38Y26",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X38Y27",
+            "Value": [
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X38Y28",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X38Y29",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X38Y30",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X38Y31",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X38Y32",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X39Y16",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X39Y17",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X39Y18",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X39Y19",
+            "Value": [
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X39Y20",
+            "Value": [
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X39Y21",
+            "Value": [
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X39Y22",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X39Y23",
+            "Value": [
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X39Y24",
+            "Value": [
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X39Y25",
+            "Value": [
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X39Y26",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X39Y27",
+            "Value": [
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X39Y28",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X39Y29",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X39Y30",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X39Y31",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X39Y32",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X39Y33",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X40Y16",
+            "Value": [
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X40Y17",
+            "Value": [
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X40Y18",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X40Y19",
+            "Value": [
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X40Y20",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X40Y21",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X40Y22",
+            "Value": [
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X40Y23",
+            "Value": [
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X40Y24",
+            "Value": [
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X40Y25",
+            "Value": [
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X40Y26",
+            "Value": [
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X40Y27",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X40Y28",
+            "Value": [
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X40Y29",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X40Y30",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X40Y31",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X40Y32",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X40Y33",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X41Y15",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X41Y16",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X41Y17",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X41Y18",
+            "Value": [
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X41Y19",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X41Y20",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X41Y21",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X41Y22",
+            "Value": [
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X41Y23",
+            "Value": [
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X41Y24",
+            "Value": [
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X41Y25",
+            "Value": [
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X41Y26",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X41Y27",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X41Y28",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X41Y29",
+            "Value": [
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X41Y30",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X41Y31",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X41Y32",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X42Y15",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X42Y16",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X42Y17",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X42Y18",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X42Y19",
+            "Value": [
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X42Y20",
+            "Value": [
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X42Y21",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X42Y22",
+            "Value": [
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X42Y23",
+            "Value": [
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X42Y24",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X42Y25",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X42Y26",
+            "Value": [
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X42Y27",
+            "Value": [
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X42Y28",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X42Y29",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X42Y30",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X42Y31",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X43Y14",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X43Y15",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X43Y16",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand9"
+              }
+            ]
+          },
+          {
+            "Key": "X43Y17",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X43Y18",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X43Y19",
+            "Value": [
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X43Y20",
+            "Value": [
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X43Y21",
+            "Value": [
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X43Y22",
+            "Value": [
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X43Y23",
+            "Value": [
+              {
+                "Tel": "ironsand11"
+              }
+            ]
+          },
+          {
+            "Key": "X43Y24",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X43Y25",
+            "Value": [
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X43Y26",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X43Y27",
+            "Value": [
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X43Y28",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X43Y29",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X43Y30",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X43Y31",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X44Y14",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X44Y15",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X44Y16",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X44Y17",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X44Y18",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X44Y19",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X44Y20",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X44Y21",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X44Y22",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X44Y23",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X44Y24",
+            "Value": [
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X44Y25",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X44Y26",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X44Y27",
+            "Value": [
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X44Y28",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X44Y29",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X44Y30",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X45Y15",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X45Y16",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X45Y17",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X45Y18",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand5"
+              }
+            ]
+          },
+          {
+            "Key": "X45Y19",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X45Y20",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X45Y21",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand4"
+              }
+            ]
+          },
+          {
+            "Key": "X45Y22",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X45Y23",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand14"
+              }
+            ]
+          },
+          {
+            "Key": "X45Y24",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand6"
+              }
+            ]
+          },
+          {
+            "Key": "X45Y25",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand2"
+              }
+            ]
+          },
+          {
+            "Key": "X45Y26",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X45Y27",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand3"
+              }
+            ]
+          },
+          {
+            "Key": "X45Y28",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X45Y29",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X45Y30",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X46Y17",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X46Y18",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X46Y19",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand7"
+              }
+            ]
+          },
+          {
+            "Key": "X46Y20",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand1"
+              }
+            ]
+          },
+          {
+            "Key": "X46Y21",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand12"
+              }
+            ]
+          },
+          {
+            "Key": "X46Y22",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand13"
+              }
+            ]
+          },
+          {
+            "Key": "X46Y23",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X46Y24",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand8"
+              }
+            ]
+          },
+          {
+            "Key": "X46Y25",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand15"
+              }
+            ]
+          },
+          {
+            "Key": "X46Y26",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              },
+              {
+                "Tel": "ironsand10"
+              }
+            ]
+          },
+          {
+            "Key": "X46Y27",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X47Y18",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X47Y19",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X47Y20",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X47Y23",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X47Y24",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X47Y25",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          },
+          {
+            "Key": "X47Y26",
+            "Value": [
+              {
+                "Tel": "Loose_Rock_wall"
+              }
+            ]
+          }
+        ]
+      },
+      "CompactObjectMapData": {
+        "Ver": "1.4.2",
+        "CommonPrefabs": [],
+        "PrefabData": [
+          {
+            "GitID": "86f1fa4a01e7f0142a6e2ce35cce0930_1┼1┼0┼",
+            "PrefabID": "86f1fa4a01e7f0142a6e2ce35cce0930",
+            "NameMatches": true,
+            "Name": "MatrixGasSettings",
+            "LocalPRS": "1┼1┼0┼",
+            "Object": {
+              "ClassDatas": [
+                {
+                  "ClassID": "MatrixGasSettings@0",
+                  "Data": [
+                    {
+                      "Name": "defaultRoomGasMixOverride",
+                      "Data": "Space"
+                    },
+                    {
+                      "Name": "overriderTileSpawnWithNoAir",
+                      "Data": "True"
+                    }
+                  ]
+                }
+              ]
+            }
+          },
+          {
+            "GitID": "83b269ab1421fcf4a95ad3cf33935cff_2┼1┼0┼",
+            "PrefabID": "83b269ab1421fcf4a95ad3cf33935cff",
+            "Name": "OreGenerator (1)",
+            "LocalPRS": "2┼1┼0┼"
+          },
+          {
+            "GitID": "e02a5954be8d94b4bbaaa0d63d813c71_3┼1┼0┼",
+            "PrefabID": "e02a5954be8d94b4bbaaa0d63d813c71",
+            "NameMatches": true,
+            "Name": "AI_ShouldNavigateAround",
+            "LocalPRS": "3┼1┼0┼"
+          },
+          {
+            "GitID": "911f81eefba53574788e7659d9b3dbfe_4┼1┼0┼",
+            "PrefabID": "911f81eefba53574788e7659d9b3dbfe",
+            "NameMatches": true,
+            "Name": "AsteroidSystem",
+            "LocalPRS": "4┼1┼0┼"
+          },
+          {
+            "GitID": "c2688b12db72cdc4c8c20b8647f6b587_32┼27┼0┼",
+            "PrefabID": "c2688b12db72cdc4c8c20b8647f6b587",
+            "Name": "Artifact25% (1)",
+            "LocalPRS": "32┼27┼0┼"
+          }
+        ],
+        "IDToNetIDClient": {}
+      },
+      "PreviewGizmos": [
+        {
+          "Ver": "1.0.0",
+          "Pos": "23.5,17.5,0",
+          "Size": "47,35,0"
+        }
+      ]
+    }
+  ]
+}
