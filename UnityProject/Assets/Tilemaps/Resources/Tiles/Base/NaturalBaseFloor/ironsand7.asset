@@ -12,6 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c576ac449c2d45d99890dcfa21598645, type: 3}
   m_Name: ironsand7
   m_EditorClassIdentifier: 
+  _PreviewSprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 765ff87bf58a9b443bb5f6e6bd4cd6b1, type: 3}
+  Sprites: []
+  spriteSheet:
+    Texture: {fileID: 0}
+    Sprites: []
+    EquippedData: {fileID: 0}
+  spriteSheets: []
+  connectCategory: 4
+  connectType: 0
+  texturePath: 
+  Blacklist: []
+  WhiteList: []
+  AnimationSpeed: 1
+  AnimationStartTime: 0
+  randomizeStartTime: 0
+  TileAnimationFlags: 0
   <ForeverID>k__BackingField: e8bc5a4b7772f144599ef566fcb0e9c1
   displayName: sand
   description: 
@@ -35,7 +52,7 @@ MonoBehaviour:
   ThermalConductivity: 0.05
   HeatCapacity: 10000
   doesReflectBullet: 0
-  indestructible: 0
+  indestructible: 1
   ExplosionImpassable: 0
   BlocksTileInteractionsUnder: 1
   passableException:
@@ -71,14 +88,13 @@ MonoBehaviour:
   spawnOnDestroy: {fileID: 0}
   damageOverlayList: {fileID: 0}
   soundOnHit:
-    SetLoadSetting: 0
     AssetAddress: null
     AssetReference:
       m_AssetGUID: 
       m_SubObjectName: 
+      m_SubObjectGUID: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0
   SoundOnDestroy: []
-  sprite: {fileID: 21300000, guid: 765ff87bf58a9b443bb5f6e6bd4cd6b1, type: 3}
   CanBeHighlightedThroughScanners: 0
   HighlightObject: {fileID: 0}

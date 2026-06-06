@@ -509,6 +509,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: a56289fd6329cbd40b7526581b9ede36,
         type: 2}
+    - target: {fileID: 8183094236644858677, guid: c9c58a9243d494537abcb4ee470efab0,
+        type: 3}
+      propertyPath: InitialitemSprites.SpriteInventoryIcon
+      value: 
+      objectReference: {fileID: 11400000, guid: cb9094433cfd404448d8fa567d22508c,
+        type: 2}
     - target: {fileID: 8470250495983453963, guid: c9c58a9243d494537abcb4ee470efab0,
         type: 3}
       propertyPath: m_Sprite

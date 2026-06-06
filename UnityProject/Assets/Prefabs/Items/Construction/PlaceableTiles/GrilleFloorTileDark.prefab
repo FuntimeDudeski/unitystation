@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7300317747465353964
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3599565184304813793, guid: e32944cede94bf1608f0cfd17b9d4b08,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 3216876718701843938, guid: 6a1a019695201513f8e575bffa3fee09,
+        type: 3}
+    - target: {fileID: 3643967843646642185, guid: e32944cede94bf1608f0cfd17b9d4b08,
+        type: 3}
+      propertyPath: _assetId
+      value: 3718651055
+      objectReference: {fileID: 0}
+    - target: {fileID: 3676569978057729469, guid: e32944cede94bf1608f0cfd17b9d4b08,
+        type: 3}
+      propertyPath: m_Name
+      value: GrilleFloorTileDark
+      objectReference: {fileID: 0}
+    - target: {fileID: 3681216376856074441, guid: e32944cede94bf1608f0cfd17b9d4b08,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3681216376856074441, guid: e32944cede94bf1608f0cfd17b9d4b08,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3681216376856074441, guid: e32944cede94bf1608f0cfd17b9d4b08,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3681216376856074441, guid: e32944cede94bf1608f0cfd17b9d4b08,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3681216376856074441, guid: e32944cede94bf1608f0cfd17b9d4b08,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3681216376856074441, guid: e32944cede94bf1608f0cfd17b9d4b08,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3681216376856074441, guid: e32944cede94bf1608f0cfd17b9d4b08,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3681216376856074441, guid: e32944cede94bf1608f0cfd17b9d4b08,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3681216376856074441, guid: e32944cede94bf1608f0cfd17b9d4b08,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3681216376856074441, guid: e32944cede94bf1608f0cfd17b9d4b08,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3884449642166012639, guid: e32944cede94bf1608f0cfd17b9d4b08,
+        type: 3}
+      propertyPath: initialName
+      value: dark grille floor tile
+      objectReference: {fileID: 0}
+    - target: {fileID: 3884449642166012639, guid: e32944cede94bf1608f0cfd17b9d4b08,
+        type: 3}
+      propertyPath: initialDescription
+      value: A dark floor tile frame with an inset metal lattice.
+      objectReference: {fileID: 0}
+    - target: {fileID: 6057367763023651222, guid: e32944cede94bf1608f0cfd17b9d4b08,
+        type: 3}
+      propertyPath: waysToPlace.Array.data[0].layerTile
+      value: 
+      objectReference: {fileID: 11400000, guid: d7472c17e2615b17c8bef8c7d9476643,
+        type: 2}
+    - target: {fileID: 6057367763023651222, guid: e32944cede94bf1608f0cfd17b9d4b08,
+        type: 3}
+      propertyPath: waysToPlace.Array.data[1].layerTile
+      value: 
+      objectReference: {fileID: 11400000, guid: d7472c17e2615b17c8bef8c7d9476643,
+        type: 2}
+    - target: {fileID: 6057367763023651222, guid: e32944cede94bf1608f0cfd17b9d4b08,
+        type: 3}
+      propertyPath: waysToPlace.Array.data[2].layerTile
+      value: 
+      objectReference: {fileID: 11400000, guid: d7472c17e2615b17c8bef8c7d9476643,
+        type: 2}
+    - target: {fileID: 6057367763023651222, guid: e32944cede94bf1608f0cfd17b9d4b08,
+        type: 3}
+      propertyPath: waysToPlace.Array.data[3].layerTile
+      value: 
+      objectReference: {fileID: 11400000, guid: d7472c17e2615b17c8bef8c7d9476643,
+        type: 2}
+    - target: {fileID: 7368966364907544122, guid: e32944cede94bf1608f0cfd17b9d4b08,
+        type: 3}
+      propertyPath: initialVariantIndex
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 7368966364907544122, guid: e32944cede94bf1608f0cfd17b9d4b08,
+        type: 3}
+      propertyPath: InitialPresentSpriteSet
+      value: 
+      objectReference: {fileID: 11400000, guid: 85f7395ba3a97ba8292a8ad1419ef69b,
+        type: 2}
+    - target: {fileID: 7764052986935159248, guid: e32944cede94bf1608f0cfd17b9d4b08,
+        type: 3}
+      propertyPath: foreverID
+      value: e3998a9e164d50a07a015b430681c42d
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e32944cede94bf1608f0cfd17b9d4b08, type: 3}

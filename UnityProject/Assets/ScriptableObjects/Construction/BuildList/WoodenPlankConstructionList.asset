@@ -21,7 +21,7 @@ MonoBehaviour:
     spawnAmount: 1
     onePerTile: 1
     facePlayerDirectionOnConstruction: 0
-  - name: Wood floor tiles
+  - name: Wood Floor Tiles (x4)
     prefab: {fileID: 7602444472548548205, guid: b72fa05149b4449b79ffe7363b7dd252,
       type: 3}
     cost: 1
@@ -76,6 +76,14 @@ MonoBehaviour:
     spawnAmount: 1
     onePerTile: 1
     facePlayerDirectionOnConstruction: 0
+  - name: Large Wooden Crate
+    prefab: {fileID: 6264972350131591085, guid: dde361d656542f048bdeebf4e87dd7d3,
+      type: 3}
+    cost: 10
+    buildTime: 7
+    spawnAmount: 1
+    onePerTile: 1
+    facePlayerDirectionOnConstruction: 0
   - name: Drying Rack
     prefab: {fileID: 6385563160038612826, guid: eb544c62ea86cf24f8a88cdcd1ed8d70,
       type: 3}
@@ -124,3 +132,11 @@ MonoBehaviour:
     spawnAmount: 1
     onePerTile: 1
     facePlayerDirectionOnConstruction: 1
+  - name: Wooden Podium
+    prefab: {fileID: 1808398835721462974, guid: fff4be697c28f15eba72fd24618f8476,
+      type: 3}
+    cost: 6
+    buildTime: 5
+    spawnAmount: 1
+    onePerTile: 1
+    facePlayerDirectionOnConstruction: 0

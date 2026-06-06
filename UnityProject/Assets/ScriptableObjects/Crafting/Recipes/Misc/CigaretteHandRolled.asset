@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a638c97a2384c54bee47631bd326e8b, type: 3}
+  m_Name: CigaretteHandRolled
+  m_EditorClassIdentifier: Assets::US13.Systems.CraftingV2.CraftingRecipe
+  category: 3
+  craftingTime: 1
+  recipeName: Hand-rolled Cigarette
+  recipeIconOverride: {fileID: 0}
+  recipeDescription: 
+  requiredIngredients:
+  - requiredAmount: 1
+    requiredItem: {fileID: 1363187735283583912, guid: 431cae30602c8734485d3130d178bd20,
+      type: 3}
+  - requiredAmount: 1
+    requiredItem: {fileID: 3705951548657128948, guid: fb9217ba5e9d4a84cbc897250c78134d,
+      type: 3}
+  requiredReagents: []
+  requiredToolTraits: []
+  result:
+  - {fileID: 419785703965905908, guid: 4514b0ded8982574d92d08c8730381b5, type: 3}
+  resultHandlers: []
+  isSimple: 1
+  indexInSingleton: 468

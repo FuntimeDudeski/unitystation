@@ -12,6 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c576ac449c2d45d99890dcfa21598645, type: 3}
   m_Name: grillefloor_8
   m_EditorClassIdentifier: 
+  _PreviewSprite: {fileID: 0}
+  sprite: {fileID: 1453285952, guid: d84ba76eff9e270de9d6b6da5ac0cfdb, type: 3}
+  Sprites: []
+  spriteSheet:
+    Texture: {fileID: 0}
+    Sprites: []
+    EquippedData: {fileID: 0}
+  spriteSheets: []
+  connectCategory: 4
+  connectType: 0
+  texturePath: 
+  Blacklist: []
+  WhiteList: []
+  AnimationSpeed: 1
+  AnimationStartTime: 0
+  randomizeStartTime: 0
+  TileAnimationFlags: 0
   <ForeverID>k__BackingField: 0ff85665477e8bf848ea86c8801edab8
   displayName: 
   description: 
@@ -68,7 +85,7 @@ MonoBehaviour:
   spawnAmountOnDeconstruct: 1
   lootOnDespawn: {fileID: 11400000, guid: 1a4a35c7013779a469d67421e3cb501d, type: 2}
   toTileWhenDestroyed: {fileID: 0}
-  spawnOnDestroy: {fileID: 11400000, guid: 23e18374069b6f64e9074e7fd4327b71, type: 2}
+  spawnOnDestroy: {fileID: 0}
   damageOverlayList: {fileID: 0}
   soundOnHit:
     AssetAddress: 
@@ -79,6 +96,5 @@ MonoBehaviour:
       m_SubObjectType: 
       m_EditorAssetChanged: 0
   SoundOnDestroy: []
-  sprite: {fileID: 1453285952, guid: d84ba76eff9e270de9d6b6da5ac0cfdb, type: 3}
   CanBeHighlightedThroughScanners: 0
   HighlightObject: {fileID: 0}

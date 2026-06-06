@@ -12,6 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c576ac449c2d45d99890dcfa21598645, type: 3}
   m_Name: whitebluecorner_1
   m_EditorClassIdentifier: 
+  _PreviewSprite: {fileID: 0}
+  sprite: {fileID: 21300002, guid: 4cef502668f4b114ca7b51e5e387aa0c, type: 3}
+  Sprites: []
+  spriteSheet:
+    Texture: {fileID: 0}
+    Sprites: []
+    EquippedData: {fileID: 0}
+  spriteSheets: []
+  connectCategory: 4
+  connectType: 0
+  texturePath: 
+  Blacklist: []
+  WhiteList: []
+  AnimationSpeed: 1
+  AnimationStartTime: 0
+  randomizeStartTime: 0
+  TileAnimationFlags: 0
   <ForeverID>k__BackingField: a53efe1e86b818d47aa3b9286f78f71c
   displayName: 
   description: 
@@ -64,22 +81,21 @@ MonoBehaviour:
   <OnTileStartMining>k__BackingField: []
   <OnTileFinishMining>k__BackingField: []
   tileStepInteractions: []
-  spawnOnDeconstruct: {fileID: 7602444472548548205, guid: 28ccdf7c9ebf84198bf4b8bd543f4ce8,
+  spawnOnDeconstruct: {fileID: 2376787246386067111, guid: 563d2ae22f10da3e7ac306dd8c8d1fab,
     type: 3}
   spawnAmountOnDeconstruct: 1
-  lootOnDespawn: {fileID: 11400000, guid: 1a4a35c7013779a469d67421e3cb501d, type: 2}
+  lootOnDespawn: {fileID: 11400000, guid: d17b0f855dc902685b64d4f5fe93238a, type: 2}
   toTileWhenDestroyed: {fileID: 0}
   spawnOnDestroy: {fileID: 0}
   damageOverlayList: {fileID: 0}
   soundOnHit:
-    SetLoadSetting: 0
     AssetAddress: 
     AssetReference:
       m_AssetGUID: 
       m_SubObjectName: 
+      m_SubObjectGUID: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0
   SoundOnDestroy: []
-  sprite: {fileID: 21300002, guid: 4cef502668f4b114ca7b51e5e387aa0c, type: 3}
   CanBeHighlightedThroughScanners: 0
   HighlightObject: {fileID: 0}

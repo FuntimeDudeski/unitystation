@@ -69,3 +69,11 @@ MonoBehaviour:
     spawnAmount: 1
     onePerTile: 1
     facePlayerDirectionOnConstruction: 0
+  - name: Silver Floor Tiles (x4)
+    prefab: {fileID: 9172799695477153469, guid: 35ccfa34c0bbb75428c536247623ed5a,
+      type: 3}
+    cost: 1
+    buildTime: 1
+    spawnAmount: 4
+    onePerTile: 0
+    facePlayerDirectionOnConstruction: 0

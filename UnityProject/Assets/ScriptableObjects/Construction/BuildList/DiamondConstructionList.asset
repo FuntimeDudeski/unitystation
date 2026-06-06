@@ -53,3 +53,11 @@ MonoBehaviour:
     spawnAmount: 1
     onePerTile: 1
     facePlayerDirectionOnConstruction: 0
+  - name: Diamond Floor Tiles (4)
+    prefab: {fileID: 8591001269946404986, guid: d1968928d275d7f488b1d40cc5d4f004,
+      type: 3}
+    cost: 1
+    buildTime: 1
+    spawnAmount: 4
+    onePerTile: 0
+    facePlayerDirectionOnConstruction: 0

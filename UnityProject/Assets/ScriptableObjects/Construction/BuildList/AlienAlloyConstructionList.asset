@@ -45,7 +45,7 @@ MonoBehaviour:
     spawnAmount: 1
     onePerTile: 1
     facePlayerDirectionOnConstruction: 0
-  - name: Alien Floor Tile
+  - name: Alien Floor Tiles (4)
     prefab: {fileID: 7672413355882590431, guid: a1e0384d99266244b8bcba067596ae21,
       type: 3}
     cost: 1

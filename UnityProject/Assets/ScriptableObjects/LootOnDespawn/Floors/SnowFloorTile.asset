@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f32b14c7e333404f97b68edca6213850, type: 3}
   m_Name: SnowFloorTile
   m_EditorClassIdentifier: 
-  objectToSpawn: {fileID: 6519391456679250234, guid: a9e20935376ccd24c922c1e921f9d30a,
+  objectToSpawn: {fileID: 7149438201211525040, guid: b5786b0165b3d3de9971ce28ac4be95a,
     type: 3}
   minAmount: 0
   maxAmount: 1

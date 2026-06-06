@@ -69,10 +69,12 @@ MonoBehaviour:
     EquippedData: {fileID: 0}
   spriteSheets: []
   connectCategory: 0
-  connectType: 2
+  connectType: 4
   texturePath: Walls
   Blacklist: []
-  WhiteList: []
+  WhiteList:
+  - {fileID: 11400000}
+  - {fileID: 11400000, guid: 8a5d7b8cc9d261442bd185a31ad88e67, type: 2}
   AnimationSpeed: 1
   AnimationStartTime: 0
   randomizeStartTime: 0

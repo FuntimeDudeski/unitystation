@@ -14,6 +14,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 8fb1b2d3dd624a94e9ffc159924f0e0e,
         type: 2}
+    - target: {fileID: 1050629533720451654, guid: b72fa05149b4449b79ffe7363b7dd252,
+        type: 3}
+      propertyPath: waysToPlace.Array.data[1].layerTile
+      value: 
+      objectReference: {fileID: 11400000, guid: 8fb1b2d3dd624a94e9ffc159924f0e0e,
+        type: 2}
     - target: {fileID: 3547700795691028992, guid: b72fa05149b4449b79ffe7363b7dd252,
         type: 3}
       propertyPath: parentID
@@ -27,6 +33,12 @@ PrefabInstance:
     - target: {fileID: 4379559048807310826, guid: b72fa05149b4449b79ffe7363b7dd252,
         type: 3}
       propertyPath: PresentSpriteSet
+      value: 
+      objectReference: {fileID: 11400000, guid: 2baa85e0dc0e9b04493f68b2afa1f9f3,
+        type: 2}
+    - target: {fileID: 4379559048807310826, guid: b72fa05149b4449b79ffe7363b7dd252,
+        type: 3}
+      propertyPath: InitialPresentSpriteSet
       value: 
       objectReference: {fileID: 11400000, guid: 2baa85e0dc0e9b04493f68b2afa1f9f3,
         type: 2}

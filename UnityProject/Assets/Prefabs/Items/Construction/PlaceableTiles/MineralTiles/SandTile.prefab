@@ -34,7 +34,7 @@ PrefabInstance:
         type: 3}
       propertyPath: InitialPresentSpriteSet
       value: 
-      objectReference: {fileID: 11400000, guid: 83e6ace3ab0b0bb4388a094f0db09070,
+      objectReference: {fileID: 11400000, guid: 83b90fcdd5317fe47ae741ad240ad4da,
         type: 2}
     - target: {fileID: 7500036475197416409, guid: 28ccdf7c9ebf84198bf4b8bd543f4ce8,
         type: 3}
@@ -44,7 +44,7 @@ PrefabInstance:
     - target: {fileID: 7602444472548548205, guid: 28ccdf7c9ebf84198bf4b8bd543f4ce8,
         type: 3}
       propertyPath: m_Name
-      value: Sand FloorTile
+      value: SandTile
       objectReference: {fileID: 0}
     - target: {fileID: 7607367948613133081, guid: 28ccdf7c9ebf84198bf4b8bd543f4ce8,
         type: 3}
@@ -100,8 +100,23 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 184f74890daa3e643a8a99efefbfc352,
+      objectReference: {fileID: 21300000, guid: 57e6f90333f99b747ba7f5abf1aaad97,
         type: 3}
+    - target: {fileID: 7741893828546030897, guid: 28ccdf7c9ebf84198bf4b8bd543f4ce8,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.52156866
+      objectReference: {fileID: 0}
+    - target: {fileID: 7741893828546030897, guid: 28ccdf7c9ebf84198bf4b8bd543f4ce8,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.76862746
+      objectReference: {fileID: 0}
+    - target: {fileID: 7741893828546030897, guid: 28ccdf7c9ebf84198bf4b8bd543f4ce8,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.9490196
+      objectReference: {fileID: 0}
     - target: {fileID: 8029025623717359887, guid: 28ccdf7c9ebf84198bf4b8bd543f4ce8,
         type: 3}
       propertyPath: hitDamage
@@ -121,6 +136,11 @@ PrefabInstance:
         type: 3}
       propertyPath: throwDamage
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8029025623717359887, guid: 28ccdf7c9ebf84198bf4b8bd543f4ce8,
+        type: 3}
+      propertyPath: initialDescription
+      value: The beach you walk on.
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: -8452655453788033201, guid: 28ccdf7c9ebf84198bf4b8bd543f4ce8, type: 3}

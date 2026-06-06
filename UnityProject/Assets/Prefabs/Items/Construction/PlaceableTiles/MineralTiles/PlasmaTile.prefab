@@ -24,6 +24,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 0c53e44732cf1fc4c829ef1c0c7df57a,
         type: 2}
+    - target: {fileID: 582731376763406495, guid: b122d05362087574ca3b106604026dd9,
+        type: 3}
+      propertyPath: InitialPresentSpriteSet
+      value: 
+      objectReference: {fileID: 11400000, guid: 0c53e44732cf1fc4c829ef1c0c7df57a,
+        type: 2}
     - target: {fileID: 4198906432554661683, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
       propertyPath: waysToPlace.Array.size
@@ -59,7 +65,7 @@ PrefabInstance:
     - target: {fileID: 6610653795340409978, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
       propertyPath: initialName
-      value: plasma tile
+      value: plasma floor tile
       objectReference: {fileID: 0}
     - target: {fileID: 6610653795340409978, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
@@ -75,6 +81,18 @@ PrefabInstance:
     - target: {fileID: 6610653795340409978, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
       propertyPath: itemSprites.SpriteRightHand
+      value: 
+      objectReference: {fileID: 11400000, guid: 3eb7c4f106546fb468fdea2f4f8e795e,
+        type: 2}
+    - target: {fileID: 6610653795340409978, guid: b122d05362087574ca3b106604026dd9,
+        type: 3}
+      propertyPath: InitialitemSprites.SpriteLeftHand
+      value: 
+      objectReference: {fileID: 11400000, guid: f4eecf945ea47844db458fa51fcaf8bb,
+        type: 2}
+    - target: {fileID: 6610653795340409978, guid: b122d05362087574ca3b106604026dd9,
+        type: 3}
+      propertyPath: InitialitemSprites.SpriteRightHand
       value: 
       objectReference: {fileID: 11400000, guid: 3eb7c4f106546fb468fdea2f4f8e795e,
         type: 2}

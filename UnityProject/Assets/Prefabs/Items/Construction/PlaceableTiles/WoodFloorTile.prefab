@@ -24,6 +24,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 07acb53a655d80246b57404512db13cb,
         type: 2}
+    - target: {fileID: 2008855533471951948, guid: a435d5d64bc4b48baa27fecfcab9e111,
+        type: 3}
+      propertyPath: InitialPresentSpriteSet
+      value: 
+      objectReference: {fileID: 11400000, guid: 07acb53a655d80246b57404512db13cb,
+        type: 2}
     - target: {fileID: 3004788566835106784, guid: a435d5d64bc4b48baa27fecfcab9e111,
         type: 3}
       propertyPath: layerTile
@@ -42,7 +48,7 @@ PrefabInstance:
     - target: {fileID: 3004788566835106784, guid: a435d5d64bc4b48baa27fecfcab9e111,
         type: 3}
       propertyPath: waysToPlace.Array.size
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3004788566835106784, guid: a435d5d64bc4b48baa27fecfcab9e111,
         type: 3}
@@ -61,13 +67,29 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3004788566835106784, guid: a435d5d64bc4b48baa27fecfcab9e111,
         type: 3}
+      propertyPath: waysToPlace.Array.data[1].itemCost
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3004788566835106784, guid: a435d5d64bc4b48baa27fecfcab9e111,
+        type: 3}
       propertyPath: waysToPlace.Array.data[0].layerTile
       value: 
       objectReference: {fileID: 11400000, guid: ebcbe32514fff8046bcd1548fc80765d,
         type: 2}
     - target: {fileID: 3004788566835106784, guid: a435d5d64bc4b48baa27fecfcab9e111,
         type: 3}
+      propertyPath: waysToPlace.Array.data[1].layerTile
+      value: 
+      objectReference: {fileID: 11400000, guid: ebcbe32514fff8046bcd1548fc80765d,
+        type: 2}
+    - target: {fileID: 3004788566835106784, guid: a435d5d64bc4b48baa27fecfcab9e111,
+        type: 3}
       propertyPath: waysToPlace.Array.data[0].placeableOn
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3004788566835106784, guid: a435d5d64bc4b48baa27fecfcab9e111,
+        type: 3}
+      propertyPath: waysToPlace.Array.data[1].placeableOn
       value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 3004788566835106784, guid: a435d5d64bc4b48baa27fecfcab9e111,
@@ -81,6 +103,12 @@ PrefabInstance:
       propertyPath: waysToPlace.Array.data[0].placeableOnlyOnTile
       value: 
       objectReference: {fileID: 11400000, guid: 83855008e43a2674d8d6a006ce94326f,
+        type: 2}
+    - target: {fileID: 3004788566835106784, guid: a435d5d64bc4b48baa27fecfcab9e111,
+        type: 3}
+      propertyPath: waysToPlace.Array.data[1].placeableOnlyOnTile
+      value: 
+      objectReference: {fileID: 11400000, guid: 285a0a7971aa2b7018e48b7a4282c595,
         type: 2}
     - target: {fileID: 5209370598559660201, guid: a435d5d64bc4b48baa27fecfcab9e111,
         type: 3}
@@ -101,6 +129,18 @@ PrefabInstance:
     - target: {fileID: 5209370598559660201, guid: a435d5d64bc4b48baa27fecfcab9e111,
         type: 3}
       propertyPath: itemSprites.SpriteRightHand
+      value: 
+      objectReference: {fileID: 11400000, guid: 907647e109c5c5145b0283b4ff4c5a78,
+        type: 2}
+    - target: {fileID: 5209370598559660201, guid: a435d5d64bc4b48baa27fecfcab9e111,
+        type: 3}
+      propertyPath: InitialitemSprites.SpriteLeftHand
+      value: 
+      objectReference: {fileID: 11400000, guid: 898572f3ef65dae498031b6fafdcad52,
+        type: 2}
+    - target: {fileID: 5209370598559660201, guid: a435d5d64bc4b48baa27fecfcab9e111,
+        type: 3}
+      propertyPath: InitialitemSprites.SpriteRightHand
       value: 
       objectReference: {fileID: 11400000, guid: 907647e109c5c5145b0283b4ff4c5a78,
         type: 2}
@@ -208,6 +248,16 @@ PrefabInstance:
     - target: {fileID: 8333640173086716004, guid: a435d5d64bc4b48baa27fecfcab9e111,
         type: 3}
       propertyPath: 'stacksWith.Array.data[0]'
+      value: 
+      objectReference: {fileID: 7602444472548548205}
+    - target: {fileID: 8333640173086716004, guid: a435d5d64bc4b48baa27fecfcab9e111,
+        type: 3}
+      propertyPath: InitialstacksWith.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8333640173086716004, guid: a435d5d64bc4b48baa27fecfcab9e111,
+        type: 3}
+      propertyPath: 'InitialstacksWith.Array.data[0]'
       value: 
       objectReference: {fileID: 7602444472548548205}
     m_RemovedComponents: []

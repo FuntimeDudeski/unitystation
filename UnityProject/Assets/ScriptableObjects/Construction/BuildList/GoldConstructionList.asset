@@ -69,3 +69,11 @@ MonoBehaviour:
     spawnAmount: 1
     onePerTile: 1
     facePlayerDirectionOnConstruction: 0
+  - name: Gold Floor Tiles (4)
+    prefab: {fileID: 6863350945561242895, guid: eb87e043698e5c94c8438ea35742de65,
+      type: 3}
+    cost: 1
+    buildTime: 1
+    spawnAmount: 4
+    onePerTile: 0
+    facePlayerDirectionOnConstruction: 0

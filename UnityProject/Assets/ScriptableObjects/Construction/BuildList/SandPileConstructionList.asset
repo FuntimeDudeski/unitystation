@@ -13,19 +13,19 @@ MonoBehaviour:
   m_Name: SandPileConstructionList
   m_EditorClassIdentifier: 
   entries:
-  - name: Aesthetic Volcanic Floor Tile
-    prefab: {fileID: 1581291951959510058, guid: c06ee5469efae72439b7afc45361bb38,
-      type: 3}
-    cost: 1
-    buildTime: 0
-    spawnAmount: 1
-    onePerTile: 0
-    facePlayerDirectionOnConstruction: 0
   - name: Sandstone
     prefab: {fileID: 2351081241306927526, guid: 3d84de77e83e1134ea51dd84d20bc84b,
       type: 3}
-    cost: 1
-    buildTime: 0
+    cost: 5
+    buildTime: 3
     spawnAmount: 1
+    onePerTile: 0
+    facePlayerDirectionOnConstruction: 0
+  - name: Sand Floor Tile (x4)
+    prefab: {fileID: 4500716660327369090, guid: 775ec6d8cc11fe04788e872cc857cf8d,
+      type: 3}
+    cost: 1
+    buildTime: 1
+    spawnAmount: 4
     onePerTile: 0
     facePlayerDirectionOnConstruction: 0

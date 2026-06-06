@@ -45,3 +45,11 @@ MonoBehaviour:
     spawnAmount: 1
     onePerTile: 1
     facePlayerDirectionOnConstruction: 0
+  - name: Reinforced Glass Floor Tiles (2)
+    prefab: {fileID: 7306364213813209768, guid: 364728739bfe6b8ae8a479c1017d3a80,
+      type: 3}
+    cost: 1
+    buildTime: 1
+    spawnAmount: 2
+    onePerTile: 0
+    facePlayerDirectionOnConstruction: 0

@@ -10,7 +10,18 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 514345970168333904, guid: 8a023982b9ee4fd40b87f69c23492dd6,
         type: 3}
+      propertyPath: spriteRenderer
+      value: 
+      objectReference: {fileID: 7151094182143005213}
+    - target: {fileID: 514345970168333904, guid: 8a023982b9ee4fd40b87f69c23492dd6,
+        type: 3}
       propertyPath: PresentSpriteSet
+      value: 
+      objectReference: {fileID: 11400000, guid: 6d0b18e49d7ba234daf28929a7c95dab,
+        type: 2}
+    - target: {fileID: 514345970168333904, guid: 8a023982b9ee4fd40b87f69c23492dd6,
+        type: 3}
+      propertyPath: InitialPresentSpriteSet
       value: 
       objectReference: {fileID: 11400000, guid: 6d0b18e49d7ba234daf28929a7c95dab,
         type: 2}
@@ -24,6 +35,12 @@ PrefabInstance:
       propertyPath: foreverID
       value: d4c32fb8a0411464285021dbf9022bea
       objectReference: {fileID: 0}
+    - target: {fileID: 5590521764569370701, guid: 8a023982b9ee4fd40b87f69c23492dd6,
+        type: 3}
+      propertyPath: buildList
+      value: 
+      objectReference: {fileID: 11400000, guid: ad2b848b5456865569ff9e8168a9c013,
+        type: 2}
     - target: {fileID: 5806468422754504331, guid: 8a023982b9ee4fd40b87f69c23492dd6,
         type: 3}
       propertyPath: m_Sprite
@@ -187,6 +204,10 @@ PrefabInstance:
         type: 3}
       insertIndex: -1
       addedObject: {fileID: -1572634311039567380}
+    - targetCorrespondingSourceObject: {fileID: 5937237277765483991, guid: 8a023982b9ee4fd40b87f69c23492dd6,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7347411695801249524}
   m_SourcePrefab: {fileID: 100100000, guid: 8a023982b9ee4fd40b87f69c23492dd6, type: 3}
 --- !u!1 &7047077720590262593 stripped
 GameObject:
@@ -206,7 +227,44 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8688576ed720a4f40b3583f62adeeb23, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  UseReagentContainer: 0
   groundReagents:
-    m_keys:
-    - {fileID: 11400000, guid: 75ee11073da11b85e9f881d9111589f4, type: 2}
-    m_values: 14000000
+    m_keys: []
+    m_values: []
+--- !u!114 &7347411695801249524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7047077720590262593}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d95e80c8fc844f38a2d4a6f11bee3c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assets::US13.Items.PlaceableTile
+  waysToPlace:
+  - layerTile: {fileID: 11400000, guid: 9bdc995cb35ba414d941370ba495eb73, type: 2}
+    placeableOn: 4
+    placeableOnlyOnTile: {fileID: 0}
+    itemCost: 5
+    timeToPlace: 5
+  - layerTile: {fileID: 11400000, guid: 9bdc995cb35ba414d941370ba495eb73, type: 2}
+    placeableOn: 3
+    placeableOnlyOnTile: {fileID: 0}
+    itemCost: 5
+    timeToPlace: 5
+  placeSound:
+    AssetAddress: 
+    AssetReference:
+      m_AssetGUID: 
+      m_SubObjectName: 
+      m_SubObjectGUID: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+--- !u!212 &7151094182143005213 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 5806468422754504331, guid: 8a023982b9ee4fd40b87f69c23492dd6,
+    type: 3}
+  m_PrefabInstance: {fileID: 3722631917635443862}
+  m_PrefabAsset: {fileID: 0}

@@ -197,6 +197,12 @@ PrefabInstance:
       propertyPath: initialDescription
       value: A slightly larger welder with a larger tank.
       objectReference: {fileID: 0}
+    - target: {fileID: 7355274273567987861, guid: b735ab74dab174a4f90c79558cd51e43,
+        type: 3}
+      propertyPath: InitialitemSprites.SpriteInventoryIcon
+      value: 
+      objectReference: {fileID: 11400000, guid: 51199df954245e34b83528f859f50f4f,
+        type: 2}
     - target: {fileID: 9051842671118403817, guid: b735ab74dab174a4f90c79558cd51e43,
         type: 3}
       propertyPath: maxCapacity

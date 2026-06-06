@@ -92,7 +92,7 @@ PrefabInstance:
     - target: {fileID: 4535546548030824560, guid: fdb2f97a13e5b31468c170e6847a8d15,
         type: 3}
       propertyPath: initialName
-      value: sand pile
+      value: sand
       objectReference: {fileID: 0}
     - target: {fileID: 4535546548030824560, guid: fdb2f97a13e5b31468c170e6847a8d15,
         type: 3}
@@ -128,6 +128,12 @@ PrefabInstance:
     - target: {fileID: 7879885434909570197, guid: fdb2f97a13e5b31468c170e6847a8d15,
         type: 3}
       propertyPath: PresentSpriteSet
+      value: 
+      objectReference: {fileID: 11400000, guid: 83e6ace3ab0b0bb4388a094f0db09070,
+        type: 2}
+    - target: {fileID: 7879885434909570197, guid: fdb2f97a13e5b31468c170e6847a8d15,
+        type: 3}
+      propertyPath: InitialPresentSpriteSet
       value: 
       objectReference: {fileID: 11400000, guid: 83e6ace3ab0b0bb4388a094f0db09070,
         type: 2}
@@ -176,11 +182,11 @@ MonoBehaviour:
     itemCost: 5
     timeToPlace: 0
   placeSound:
-    SetLoadSetting: 0
     AssetAddress: null
     AssetReference:
       m_AssetGUID: 
       m_SubObjectName: 
+      m_SubObjectGUID: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0
 --- !u!114 &3280358701294656580

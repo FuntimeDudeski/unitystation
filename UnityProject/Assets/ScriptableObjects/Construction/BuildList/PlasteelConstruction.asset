@@ -37,7 +37,7 @@ MonoBehaviour:
     spawnAmount: 1
     onePerTile: 1
     facePlayerDirectionOnConstruction: 0
-  - name: New Shuttle
+  - name: New Shuttle Construction
     prefab: {fileID: 5143080651112457901, guid: fd3030c220693374ebb9350985a2c7bd,
       type: 3}
     cost: 50

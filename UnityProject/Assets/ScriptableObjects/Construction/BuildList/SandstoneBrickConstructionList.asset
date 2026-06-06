@@ -13,14 +13,6 @@ MonoBehaviour:
   m_Name: SandstoneBrickConstructionList
   m_EditorClassIdentifier: 
   entries:
-  - name: Pile of Dirt
-    prefab: {fileID: 1628816798482564540, guid: db2170c789807294fa229a67c621f08e,
-      type: 3}
-    cost: 3
-    buildTime: 1
-    spawnAmount: 1
-    onePerTile: 1
-    facePlayerDirectionOnConstruction: 0
   - name: Sandstone Door
     prefab: {fileID: 5650404602772803864, guid: c32252ab9e386cd41a495831538dd9f7,
       type: 3}
@@ -41,7 +33,7 @@ MonoBehaviour:
     prefab: {fileID: 773312911048126984, guid: 6e4200f349a2e834c93abd60c2264641, type: 3}
     cost: 1
     buildTime: 1
-    spawnAmount: 1
+    spawnAmount: 5
     onePerTile: 0
     facePlayerDirectionOnConstruction: 0
   - name: Sandstone Airlock Assembly
@@ -52,8 +44,8 @@ MonoBehaviour:
     spawnAmount: 1
     onePerTile: 1
     facePlayerDirectionOnConstruction: 0
-  - name: SAnd Floor Tile (x4)
-    prefab: {fileID: 4500716660327369090, guid: 775ec6d8cc11fe04788e872cc857cf8d,
+  - name: Sandstone Floor Tile (x4)
+    prefab: {fileID: 1214036119148851041, guid: b14a4c4b9947a41868249d070ef487bd,
       type: 3}
     cost: 1
     buildTime: 1

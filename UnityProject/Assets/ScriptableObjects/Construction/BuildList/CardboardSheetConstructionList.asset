@@ -45,3 +45,11 @@ MonoBehaviour:
     spawnAmount: 1
     onePerTile: 1
     facePlayerDirectionOnConstruction: 0
+  - name: Cardboard Cutout
+    prefab: {fileID: 6227820871709909832, guid: 83a01d348d1b47c41aac02ee8a074dd8,
+      type: 3}
+    cost: 3
+    buildTime: 2
+    spawnAmount: 1
+    onePerTile: 1
+    facePlayerDirectionOnConstruction: 0

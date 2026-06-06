@@ -1,6 +1,6 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!1001 &516189730505947682
+--- !u!1001 &5587075175193238649
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -10,56 +10,61 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 426401372556771189, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
-      propertyPath: parentID
-      value: b122d05362087574ca3b106604026dd9
-      objectReference: {fileID: 0}
-    - target: {fileID: 426401372556771189, guid: b122d05362087574ca3b106604026dd9,
-        type: 3}
       propertyPath: foreverID
-      value: a9e20935376ccd24c922c1e921f9d30a
+      value: b14a4c4b9947a41868249d070ef487bd
       objectReference: {fileID: 0}
     - target: {fileID: 582731376763406495, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
-      propertyPath: PresentSpriteSet
+      propertyPath: spriteRenderer
       value: 
-      objectReference: {fileID: 11400000, guid: 83b90fcdd5317fe47ae741ad240ad4da,
-        type: 2}
-    - target: {fileID: 6610653795340409978, guid: b122d05362087574ca3b106604026dd9,
+      objectReference: {fileID: 1308554042019503165}
+    - target: {fileID: 582731376763406495, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
-      propertyPath: exportCost
-      value: 2
+      propertyPath: InitialPresentSpriteSet
+      value: 
+      objectReference: {fileID: 11400000, guid: a36db01d189c2de389a1ec26686fdd46,
+        type: 2}
+    - target: {fileID: 4198906432554661683, guid: b122d05362087574ca3b106604026dd9,
+        type: 3}
+      propertyPath: waysToPlace.Array.size
+      value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4198906432554661683, guid: b122d05362087574ca3b106604026dd9,
+        type: 3}
+      propertyPath: waysToPlace.Array.data[0].itemCost
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4198906432554661683, guid: b122d05362087574ca3b106604026dd9,
+        type: 3}
+      propertyPath: waysToPlace.Array.data[0].layerTile
+      value: 
+      objectReference: {fileID: 11400000, guid: a90268fa2eacee54ebd6b3f5cf0e9738,
+        type: 2}
+    - target: {fileID: 4198906432554661683, guid: b122d05362087574ca3b106604026dd9,
+        type: 3}
+      propertyPath: waysToPlace.Array.data[0].placeableOn
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4198906432554661683, guid: b122d05362087574ca3b106604026dd9,
+        type: 3}
+      propertyPath: waysToPlace.Array.data[0].placeableOnlyOnTile
+      value: 
+      objectReference: {fileID: 11400000, guid: 83855008e43a2674d8d6a006ce94326f,
+        type: 2}
     - target: {fileID: 6610653795340409978, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
       propertyPath: initialName
-      value: snow tile
+      value: sandstone floor tile
       objectReference: {fileID: 0}
     - target: {fileID: 6610653795340409978, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
-      propertyPath: itemSprites.SpriteLeftHand
-      value: 
-      objectReference: {fileID: 11400000, guid: d164c0673acb6934290b88ee5cc3f536,
-        type: 2}
-    - target: {fileID: 6610653795340409978, guid: b122d05362087574ca3b106604026dd9,
-        type: 3}
-      propertyPath: itemSprites.SpriteRightHand
-      value: 
-      objectReference: {fileID: 11400000, guid: e29c40892bef94a4da267b8e4fdd8842,
-        type: 2}
+      propertyPath: initialDescription
+      value: A tile made out of sandstone. Rough.
+      objectReference: {fileID: 0}
     - target: {fileID: 6684588376263855788, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
       propertyPath: _assetId
-      value: 2278876593
-      objectReference: {fileID: 0}
-    - target: {fileID: 6684588376263855788, guid: b122d05362087574ca3b106604026dd9,
-        type: 3}
-      propertyPath: m_AssetId
-      value: a9e20935376ccd24c922c1e921f9d30a
-      objectReference: {fileID: 0}
-    - target: {fileID: 6720454823616171628, guid: b122d05362087574ca3b106604026dd9,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 0
+      value: 2940732778
       objectReference: {fileID: 0}
     - target: {fileID: 6720454823616171628, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
@@ -114,21 +119,22 @@ PrefabInstance:
     - target: {fileID: 6723971198869811992, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
       propertyPath: m_Name
-      value: SnowTile
+      value: SandstoneTile
       objectReference: {fileID: 0}
     - target: {fileID: 6890979888983081028, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 57e6f90333f99b747ba7f5abf1aaad97,
+      objectReference: {fileID: 21300000, guid: 14f29472962f9a91c96330c501e8b824,
         type: 3}
-    - target: {fileID: 6890979888983081028, guid: b122d05362087574ca3b106604026dd9,
-        type: 3}
-      propertyPath: m_WasSpriteAssigned
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b122d05362087574ca3b106604026dd9, type: 3}
+--- !u!212 &1308554042019503165 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 6890979888983081028, guid: b122d05362087574ca3b106604026dd9,
+    type: 3}
+  m_PrefabInstance: {fileID: 5587075175193238649}
+  m_PrefabAsset: {fileID: 0}

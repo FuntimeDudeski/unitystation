@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: PotatoWedgesRecipe
   m_EditorClassIdentifier: 
   category: 3
-  craftingTime: 0
+  craftingTime: 0.5
   recipeName: Potato Wedges
   recipeIconOverride: {fileID: 0}
   recipeDescription: 

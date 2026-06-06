@@ -53,3 +53,11 @@ MonoBehaviour:
     spawnAmount: 1
     onePerTile: 1
     facePlayerDirectionOnConstruction: 1
+  - name: Glass Floor Tiles (2)
+    prefab: {fileID: 7670139803818380648, guid: 32485c683e936f4ffb3376f5b7b02881,
+      type: 3}
+    cost: 1
+    buildTime: 1
+    spawnAmount: 2
+    onePerTile: 0
+    facePlayerDirectionOnConstruction: 0

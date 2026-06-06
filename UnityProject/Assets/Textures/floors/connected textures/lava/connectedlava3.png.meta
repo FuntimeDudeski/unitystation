@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 618ccb86fa7c5e7eb9b20c65160c0351
+guid: 1cb8bc15a7405f72ca405b910f2d4256
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3279929496223515232
-    second: connectedlava3_0
+      213: -803546661711380708
+    second: connectedlava2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: connectedlava3_0
+      name: connectedlava2_0
       rect:
         serializedVersion: 2
         x: 0
@@ -115,14 +115,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0ad754140895b72d0800000000000000
-      internalID: -3279929496223515232
+      spriteID: c1ffd3c819a39d4f0800000000000000
+      internalID: -803546661711380708
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_1
+      name: connectedlava2_1
       rect:
         serializedVersion: 2
         x: 32
@@ -137,14 +137,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e8d3998033c929118077df89369ed70
-      internalID: -1953228785
+      spriteID: 317365a5e8b448f34b927d780eeec823
+      internalID: -1516130755
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_2
+      name: connectedlava2_2
       rect:
         serializedVersion: 2
         x: 64
@@ -159,14 +159,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5c22d9015a35af743a47993773b45008
-      internalID: 1981332668
+      spriteID: d09a989d9815c44cdbc5eeafea6504fa
+      internalID: 2038340055
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_3
+      name: connectedlava2_3
       rect:
         serializedVersion: 2
         x: 96
@@ -181,14 +181,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8fad7797809c58ce7908504539523fef
-      internalID: -1825915128
+      spriteID: a83451b387d937d9f9332f519a2eaa8b
+      internalID: -334282528
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_4
+      name: connectedlava2_4
       rect:
         serializedVersion: 2
         x: 128
@@ -203,14 +203,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fa084993c13cb9bf087e0e382d59854e
-      internalID: -1320920955
+      spriteID: 52fe239262f2ba827af814cacef81134
+      internalID: 982182496
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_5
+      name: connectedlava2_5
       rect:
         serializedVersion: 2
         x: 160
@@ -225,14 +225,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e00e4597b1f42fc52af7aa8d0279c78f
-      internalID: -251466161
+      spriteID: c6b04edf9e9d74c81b54ddc2921cc73e
+      internalID: 1649523209
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_6
+      name: connectedlava2_6
       rect:
         serializedVersion: 2
         x: 0
@@ -247,14 +247,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1bc46f623e552b8e8b27c6362ac25bf7
-      internalID: 524933124
+      spriteID: 1490e1e3af7142c828b321a40eec26f4
+      internalID: -384882347
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_7
+      name: connectedlava2_7
       rect:
         serializedVersion: 2
         x: 32
@@ -269,14 +269,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12472bbe9f935d199866a2192b89c274
-      internalID: -61433893
+      spriteID: c4298f18e4edfcd2e9a3ed6fb2ff29fa
+      internalID: -1860389809
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_8
+      name: connectedlava2_8
       rect:
         serializedVersion: 2
         x: 64
@@ -291,14 +291,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a0ff74f3ae3156701a72db5cc2ed776e
-      internalID: -1425297287
+      spriteID: 7627dbae0dcf3d9beb92cdeb9a2ff868
+      internalID: -2094472652
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_9
+      name: connectedlava2_9
       rect:
         serializedVersion: 2
         x: 96
@@ -313,14 +313,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 742d8c6e7377d19ca95c5b5ee31eb6db
-      internalID: 542235216
+      spriteID: 55680a78d0fd3b1ac918f7ef0ce3c970
+      internalID: -107762640
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_10
+      name: connectedlava2_10
       rect:
         serializedVersion: 2
         x: 128
@@ -335,14 +335,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e36419d147e271f3991a1c47e2cd1469
-      internalID: 1907541945
+      spriteID: 8428d84836e69fbb1af6c89beac200f5
+      internalID: -263892936
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_11
+      name: connectedlava2_11
       rect:
         serializedVersion: 2
         x: 160
@@ -357,14 +357,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e68d6710ab2349788b6802efef598166
-      internalID: -595057846
+      spriteID: 4ca7777bf309d87c88810ad1e822b934
+      internalID: -1204931691
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_12
+      name: connectedlava2_12
       rect:
         serializedVersion: 2
         x: 0
@@ -379,14 +379,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf48a11d08d7d37f99032dd08b3e7cfa
-      internalID: -1588649958
+      spriteID: 361d63f42dcb194e09e9ae9f13c5ff36
+      internalID: 109486076
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_13
+      name: connectedlava2_13
       rect:
         serializedVersion: 2
         x: 32
@@ -401,14 +401,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7e79ffaa54e2236b2a698fa262a62bab
-      internalID: -336566830
+      spriteID: 4e42bba9d4c65a3f7b0741e50d1b397c
+      internalID: 832184154
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_14
+      name: connectedlava2_14
       rect:
         serializedVersion: 2
         x: 64
@@ -423,14 +423,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 83294acefe9c3cbc3b912652324a8ac0
-      internalID: 1699976123
+      spriteID: 2c13c448202e35c57b2bd31a17a8a7bf
+      internalID: -2118363150
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_15
+      name: connectedlava2_15
       rect:
         serializedVersion: 2
         x: 96
@@ -445,14 +445,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd2c554c807ec011b99c4942658f45d6
-      internalID: -1334124331
+      spriteID: df67d5e16c4cdddd08d793194944f3eb
+      internalID: 925410019
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_16
+      name: connectedlava2_16
       rect:
         serializedVersion: 2
         x: 128
@@ -467,14 +467,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2049d7702470f317fa6c363fd560f393
-      internalID: 1362412854
+      spriteID: 037202b466128e8768485622aff7a366
+      internalID: -619443646
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_17
+      name: connectedlava2_17
       rect:
         serializedVersion: 2
         x: 160
@@ -489,14 +489,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf85902d8e0558b5987ba36bd7246f77
-      internalID: 1331314756
+      spriteID: aadc96c205a33b5149fcefb1eb6ae8ea
+      internalID: 310571256
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_18
+      name: connectedlava2_18
       rect:
         serializedVersion: 2
         x: 0
@@ -511,14 +511,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7ca30afebc533de97ab523df69b02183
-      internalID: -81614755
+      spriteID: 85a28eccf28e500449d0a6da195fa067
+      internalID: 1924315234
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_19
+      name: connectedlava2_19
       rect:
         serializedVersion: 2
         x: 32
@@ -533,14 +533,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1587a86d62270f1dc96e27ebf7404961
-      internalID: -1383460872
+      spriteID: 2ebad3bfa306614918bdfe9601d08684
+      internalID: 2050063197
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_20
+      name: connectedlava2_20
       rect:
         serializedVersion: 2
         x: 64
@@ -555,14 +555,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0eb953930f8a61c4b7d508e731840e5
-      internalID: -774743220
+      spriteID: 44ddc1e5d017c297abc9a0e666c12066
+      internalID: -1564124555
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_21
+      name: connectedlava2_21
       rect:
         serializedVersion: 2
         x: 96
@@ -577,14 +577,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 52df3f00fa874759285aa035dab9d792
-      internalID: 374781385
+      spriteID: f1b1c4ed2cdb2f4caa2032ef4a0d4b88
+      internalID: 498870127
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_22
+      name: connectedlava2_22
       rect:
         serializedVersion: 2
         x: 128
@@ -599,14 +599,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 27158f6b206ff708ab77d568fe438334
-      internalID: -747632507
+      spriteID: e46be9632f103d760bd6701840cb81fa
+      internalID: -720509776
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_23
+      name: connectedlava2_23
       rect:
         serializedVersion: 2
         x: 160
@@ -621,14 +621,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b3e8f373831af8844b9e40527fe3917a
-      internalID: 173368468
+      spriteID: f6347fc629304d395b092092dc1f0934
+      internalID: 141390309
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_24
+      name: connectedlava2_24
       rect:
         serializedVersion: 2
         x: 0
@@ -643,14 +643,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9723c9c63b8df295ba1d66b5632b6e53
-      internalID: -1676973945
+      spriteID: bee2aa59f576156a89acdeb91fe573f5
+      internalID: -1954608583
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_25
+      name: connectedlava2_25
       rect:
         serializedVersion: 2
         x: 32
@@ -665,14 +665,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9014468b6fcf9af91a98b22f0d2ec52f
-      internalID: -1185535330
+      spriteID: a8efe2b9f291866b0beb6234370a306a
+      internalID: 828494806
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_26
+      name: connectedlava2_26
       rect:
         serializedVersion: 2
         x: 64
@@ -687,14 +687,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b999aa864369438b2966cf61f7c43a30
-      internalID: 721031078
+      spriteID: 790c53a4f99026cbd97f3cace06d8717
+      internalID: 1016423915
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_27
+      name: connectedlava2_27
       rect:
         serializedVersion: 2
         x: 96
@@ -709,14 +709,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1db69ff3c2fd06324a1e956d4af808fc
-      internalID: -1327990879
+      spriteID: ec19da5951c5f2932bf318cea0c4efb5
+      internalID: 2004700219
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_28
+      name: connectedlava2_28
       rect:
         serializedVersion: 2
         x: 128
@@ -731,14 +731,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 662d3db3f83ff6e17a5622708c7341cc
-      internalID: -446841014
+      spriteID: a558422affaa8a1e791653407c3e20da
+      internalID: 1705955521
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_29
+      name: connectedlava2_29
       rect:
         serializedVersion: 2
         x: 160
@@ -753,14 +753,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ecc81f964f9f368028eac7c12b07bb17
-      internalID: -473751926
+      spriteID: 86daa8b24b501df8082f14024d137ea9
+      internalID: 541402376
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_30
+      name: connectedlava2_30
       rect:
         serializedVersion: 2
         x: 0
@@ -775,14 +775,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b519c49382f2738194538a73d58710d
-      internalID: -1994374986
+      spriteID: d0e2874e39b6383e1925b7ccb13b1bf6
+      internalID: -1058250724
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_31
+      name: connectedlava2_31
       rect:
         serializedVersion: 2
         x: 32
@@ -797,14 +797,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc65fac073b5d5811b1a8187cfa8d441
-      internalID: -873052311
+      spriteID: 6a0fc9a4595dbb2b984f044a132ab864
+      internalID: 321519887
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_32
+      name: connectedlava2_32
       rect:
         serializedVersion: 2
         x: 64
@@ -819,14 +819,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0bf92226024f45092bed8fd2b1baa955
-      internalID: 730636449
+      spriteID: 6837f3be9040447849e41042f0af08f3
+      internalID: -1886466740
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_33
+      name: connectedlava2_33
       rect:
         serializedVersion: 2
         x: 96
@@ -841,14 +841,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 701633325b461f41791231ffddf815f7
-      internalID: -992702896
+      spriteID: a3d133f299030f88dbabba6a5ac73ce9
+      internalID: -1742234481
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_34
+      name: connectedlava2_34
       rect:
         serializedVersion: 2
         x: 128
@@ -863,14 +863,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 962e2d7cae2e99857b966ee31562a3dc
-      internalID: 342456933
+      spriteID: a887ea92ed1f3d02babd45bd0f2b7fe5
+      internalID: -469378389
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_35
+      name: connectedlava2_35
       rect:
         serializedVersion: 2
         x: 160
@@ -885,14 +885,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5345bad98db72ba08a400170572a40b1
-      internalID: 2053022764
+      spriteID: c8bf7c40bc7a52bb78cb7d6cf56f4552
+      internalID: 1966378915
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_36
+      name: connectedlava2_36
       rect:
         serializedVersion: 2
         x: 0
@@ -907,14 +907,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cd759ccd62b9c354da4e882c381e1acf
-      internalID: -702878880
+      spriteID: 2e2747e181599f8848537b3f3e3c3d17
+      internalID: 1905379205
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_37
+      name: connectedlava2_37
       rect:
         serializedVersion: 2
         x: 32
@@ -929,14 +929,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c7e304a69bd740bc8b54c2e4748127db
-      internalID: 1606294642
+      spriteID: 95c4d8cc5815898878c4bc2c62348ed2
+      internalID: -433454851
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_38
+      name: connectedlava2_38
       rect:
         serializedVersion: 2
         x: 64
@@ -951,14 +951,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b426aa6d2942bae3ab5a4821d07391f3
-      internalID: 628042410
+      spriteID: 64d21ab8ec15ff1c2849ec95ead10563
+      internalID: -690606476
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_39
+      name: connectedlava2_39
       rect:
         serializedVersion: 2
         x: 96
@@ -973,14 +973,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f92b42abdfe9ccddb8d565ae31eb10c1
-      internalID: -127005718
+      spriteID: f3dc914b35b835f8fb67612ae72bd141
+      internalID: -999936595
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_40
+      name: connectedlava2_40
       rect:
         serializedVersion: 2
         x: 128
@@ -995,14 +995,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6474e2388aa1caa33b6aa426f8d7aa37
-      internalID: 284449974
+      spriteID: 7f5f71e6572ed0d75a2cdbc6e030ac59
+      internalID: -1034759575
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_41
+      name: connectedlava2_41
       rect:
         serializedVersion: 2
         x: 160
@@ -1017,14 +1017,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bc01f4280732c68d0bb762feed5204fc
-      internalID: -1248658183
+      spriteID: d04e3a446a8bfa65cb0f584d1db42911
+      internalID: -1562397150
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_42
+      name: connectedlava2_42
       rect:
         serializedVersion: 2
         x: 0
@@ -1039,14 +1039,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5bdb37538cf6dbc849e7a905c0fca3e9
-      internalID: 1871278577
+      spriteID: 2664a4a450dab016885b4fa9449abb91
+      internalID: 609958523
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_43
+      name: connectedlava2_43
       rect:
         serializedVersion: 2
         x: 32
@@ -1061,14 +1061,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b675c063d4db8a152b30142d954fb4a9
-      internalID: -1108174415
+      spriteID: 7458ad10cf3658d31bdc6e20025b3d6c
+      internalID: 555985954
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_44
+      name: connectedlava2_44
       rect:
         serializedVersion: 2
         x: 64
@@ -1083,14 +1083,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 47f58aec931defad78508700d20d455c
-      internalID: 1802798091
+      spriteID: 000e6f3110bfa750a9535c137fcf4ea6
+      internalID: 2007566428
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_45
+      name: connectedlava2_45
       rect:
         serializedVersion: 2
         x: 96
@@ -1105,14 +1105,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c046b894d1300d56d906245a0e914f6c
-      internalID: 1656491440
+      spriteID: b47e6becf6fa6cc188621b40d616ff94
+      internalID: -1584560027
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_46
+      name: connectedlava2_46
       rect:
         serializedVersion: 2
         x: 128
@@ -1127,14 +1127,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 63ead44d947906130bd52978b3f6fc1e
-      internalID: 1179080388
+      spriteID: 6ab5a003f173e991281d09494fe36d62
+      internalID: -842233401
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: connectedlava3_47
+      name: connectedlava2_47
       rect:
         serializedVersion: 2
         x: 160
@@ -1149,8 +1149,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a215a4855bf55ad6ca4fbc8797af7e2e
-      internalID: 474317346
+      spriteID: 3e683644fb76daca9aba7aeb75301192
+      internalID: -1335453206
       vertices: []
       indices: 
       edges: []
@@ -1159,7 +1159,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 67927095706c25c148744ddb8a669d3b
+    spriteID: 98fbb2ea029be33328398eaaa3929c56
     internalID: 0
     vertices: []
     indices: 
@@ -1171,54 +1171,54 @@ TextureImporter:
       - key: SpriteEditor.SliceSettings
         value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":32.0,"y":32.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      connectedlava3_0: -3279929496223515232
-      connectedlava3_1: -1953228785
-      connectedlava3_10: 1907541945
-      connectedlava3_11: -595057846
-      connectedlava3_12: -1588649958
-      connectedlava3_13: -336566830
-      connectedlava3_14: 1699976123
-      connectedlava3_15: -1334124331
-      connectedlava3_16: 1362412854
-      connectedlava3_17: 1331314756
-      connectedlava3_18: -81614755
-      connectedlava3_19: -1383460872
-      connectedlava3_2: 1981332668
-      connectedlava3_20: -774743220
-      connectedlava3_21: 374781385
-      connectedlava3_22: -747632507
-      connectedlava3_23: 173368468
-      connectedlava3_24: -1676973945
-      connectedlava3_25: -1185535330
-      connectedlava3_26: 721031078
-      connectedlava3_27: -1327990879
-      connectedlava3_28: -446841014
-      connectedlava3_29: -473751926
-      connectedlava3_3: -1825915128
-      connectedlava3_30: -1994374986
-      connectedlava3_31: -873052311
-      connectedlava3_32: 730636449
-      connectedlava3_33: -992702896
-      connectedlava3_34: 342456933
-      connectedlava3_35: 2053022764
-      connectedlava3_36: -702878880
-      connectedlava3_37: 1606294642
-      connectedlava3_38: 628042410
-      connectedlava3_39: -127005718
-      connectedlava3_4: -1320920955
-      connectedlava3_40: 284449974
-      connectedlava3_41: -1248658183
-      connectedlava3_42: 1871278577
-      connectedlava3_43: -1108174415
-      connectedlava3_44: 1802798091
-      connectedlava3_45: 1656491440
-      connectedlava3_46: 1179080388
-      connectedlava3_47: 474317346
-      connectedlava3_5: -251466161
-      connectedlava3_6: 524933124
-      connectedlava3_7: -61433893
-      connectedlava3_8: -1425297287
-      connectedlava3_9: 542235216
+      connectedlava2_0: -803546661711380708
+      connectedlava2_1: -1516130755
+      connectedlava2_10: -263892936
+      connectedlava2_11: -1204931691
+      connectedlava2_12: 109486076
+      connectedlava2_13: 832184154
+      connectedlava2_14: -2118363150
+      connectedlava2_15: 925410019
+      connectedlava2_16: -619443646
+      connectedlava2_17: 310571256
+      connectedlava2_18: 1924315234
+      connectedlava2_19: 2050063197
+      connectedlava2_2: 2038340055
+      connectedlava2_20: -1564124555
+      connectedlava2_21: 498870127
+      connectedlava2_22: -720509776
+      connectedlava2_23: 141390309
+      connectedlava2_24: -1954608583
+      connectedlava2_25: 828494806
+      connectedlava2_26: 1016423915
+      connectedlava2_27: 2004700219
+      connectedlava2_28: 1705955521
+      connectedlava2_29: 541402376
+      connectedlava2_3: -334282528
+      connectedlava2_30: -1058250724
+      connectedlava2_31: 321519887
+      connectedlava2_32: -1886466740
+      connectedlava2_33: -1742234481
+      connectedlava2_34: -469378389
+      connectedlava2_35: 1966378915
+      connectedlava2_36: 1905379205
+      connectedlava2_37: -433454851
+      connectedlava2_38: -690606476
+      connectedlava2_39: -999936595
+      connectedlava2_4: 982182496
+      connectedlava2_40: -1034759575
+      connectedlava2_41: -1562397150
+      connectedlava2_42: 609958523
+      connectedlava2_43: 555985954
+      connectedlava2_44: 2007566428
+      connectedlava2_45: -1584560027
+      connectedlava2_46: -842233401
+      connectedlava2_47: -1335453206
+      connectedlava2_5: 1649523209
+      connectedlava2_6: -384882347
+      connectedlava2_7: -1860389809
+      connectedlava2_8: -2094472652
+      connectedlava2_9: -107762640
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

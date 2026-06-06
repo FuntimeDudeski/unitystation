@@ -201,6 +201,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: b8951e7732642b349b57e0b66cf14762,
         type: 2}
+    - target: {fileID: 7355274273567987861, guid: b735ab74dab174a4f90c79558cd51e43,
+        type: 3}
+      propertyPath: InitialitemSprites.SpriteInventoryIcon
+      value: 
+      objectReference: {fileID: 11400000, guid: 295dcd44e2fe7b049a64f84141a18b6f,
+        type: 2}
     - target: {fileID: 9051842671118403817, guid: b735ab74dab174a4f90c79558cd51e43,
         type: 3}
       propertyPath: maxCapacity

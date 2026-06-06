@@ -22,7 +22,7 @@ MonoBehaviour:
     onePerTile: 1
     facePlayerDirectionOnConstruction: 0
   - name: Directional Shuttle Window
-    prefab: {fileID: 2943501438879853654, guid: 2687df960de8f3f4aa407993936cf69a,
+    prefab: {fileID: 6477934125076552368, guid: 044c5be8ebc308b4b9e450ab85fec306,
       type: 3}
     cost: 1
     buildTime: 2

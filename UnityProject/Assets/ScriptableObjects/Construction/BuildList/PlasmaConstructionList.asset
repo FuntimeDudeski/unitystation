@@ -35,3 +35,18 @@ MonoBehaviour:
     spawnAmount: 1
     onePerTile: 1
     facePlayerDirectionOnConstruction: 0
+  - name: Plasma Floor Tiles (4)
+    prefab: {fileID: 5424220034611197697, guid: b4202bcbf707f654db10c9ab830ee80b,
+      type: 3}
+    cost: 1
+    buildTime: 1
+    spawnAmount: 4
+    onePerTile: 0
+    facePlayerDirectionOnConstruction: 0
+  - name: Xenomorph Statue
+    prefab: {fileID: 956989940311841497, guid: a6121ac28055d434a8416dcb9109a97c, type: 3}
+    cost: 5
+    buildTime: 1
+    spawnAmount: 1
+    onePerTile: 1
+    facePlayerDirectionOnConstruction: 0

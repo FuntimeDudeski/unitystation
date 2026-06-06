@@ -12,6 +12,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c576ac449c2d45d99890dcfa21598645, type: 3}
   m_Name: sandstonematerial
   m_EditorClassIdentifier: 
+  _PreviewSprite: {fileID: 0}
+  sprite: {fileID: 21300000, guid: 5d64c140a41416a43aa2150f30544ff0, type: 3}
+  Sprites: []
+  spriteSheet:
+    Texture: {fileID: 0}
+    Sprites: []
+    EquippedData: {fileID: 0}
+  spriteSheets: []
+  connectCategory: 4
+  connectType: 0
+  texturePath: 
+  Blacklist: []
+  WhiteList: []
+  AnimationSpeed: 1
+  AnimationStartTime: 0
+  randomizeStartTime: 0
+  TileAnimationFlags: 0
   <ForeverID>k__BackingField: sandstonefloor
   displayName: 
   description: 
@@ -58,26 +75,26 @@ MonoBehaviour:
     StunImmunity: 0
     TemperatureProtectionInK: {x: 268.15, y: 313.15}
     PressureProtectionInKpa: {x: 30, y: 300}
-  tileInteractions: []
+  tileInteractions:
+  - {fileID: 11400000, guid: 7b6820d9f95c544a8bf274f9125b4941, type: 2}
   <OnTileStartMining>k__BackingField: []
   <OnTileFinishMining>k__BackingField: []
   tileStepInteractions: []
-  spawnOnDeconstruct: {fileID: 7602444472548548205, guid: 28ccdf7c9ebf84198bf4b8bd543f4ce8,
+  spawnOnDeconstruct: {fileID: 1214036119148851041, guid: b14a4c4b9947a41868249d070ef487bd,
     type: 3}
   spawnAmountOnDeconstruct: 1
-  lootOnDespawn: {fileID: 0}
+  lootOnDespawn: {fileID: 11400000, guid: fb684bbb9b1adf472a82dc8b8d206d53, type: 2}
   toTileWhenDestroyed: {fileID: 0}
   spawnOnDestroy: {fileID: 0}
   damageOverlayList: {fileID: 0}
   soundOnHit:
-    SetLoadSetting: 0
     AssetAddress: 
     AssetReference:
       m_AssetGUID: 
       m_SubObjectName: 
+      m_SubObjectGUID: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0
   SoundOnDestroy: []
-  sprite: {fileID: 21300000, guid: 5d64c140a41416a43aa2150f30544ff0, type: 3}
   CanBeHighlightedThroughScanners: 0
   HighlightObject: {fileID: 0}

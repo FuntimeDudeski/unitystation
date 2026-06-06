@@ -24,6 +24,12 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 11400000, guid: 2274bdc47d194994680846e4849e0c79,
         type: 2}
+    - target: {fileID: 582731376763406495, guid: b122d05362087574ca3b106604026dd9,
+        type: 3}
+      propertyPath: InitialPresentSpriteSet
+      value: 
+      objectReference: {fileID: 11400000, guid: 2274bdc47d194994680846e4849e0c79,
+        type: 2}
     - target: {fileID: 4198906432554661683, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
       propertyPath: waysToPlace.Array.size
@@ -59,7 +65,7 @@ PrefabInstance:
     - target: {fileID: 6610653795340409978, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
       propertyPath: initialName
-      value: gold tile
+      value: gold floor tile
       objectReference: {fileID: 0}
     - target: {fileID: 6610653795340409978, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
@@ -75,6 +81,18 @@ PrefabInstance:
     - target: {fileID: 6610653795340409978, guid: b122d05362087574ca3b106604026dd9,
         type: 3}
       propertyPath: itemSprites.SpriteRightHand
+      value: 
+      objectReference: {fileID: 11400000, guid: 17dca774d42c33a40947cabe0e167337,
+        type: 2}
+    - target: {fileID: 6610653795340409978, guid: b122d05362087574ca3b106604026dd9,
+        type: 3}
+      propertyPath: InitialitemSprites.SpriteLeftHand
+      value: 
+      objectReference: {fileID: 11400000, guid: 6da05ef5f61a8d641a1a01d4c06871e4,
+        type: 2}
+    - target: {fileID: 6610653795340409978, guid: b122d05362087574ca3b106604026dd9,
+        type: 3}
+      propertyPath: InitialitemSprites.SpriteRightHand
       value: 
       objectReference: {fileID: 11400000, guid: 17dca774d42c33a40947cabe0e167337,
         type: 2}
